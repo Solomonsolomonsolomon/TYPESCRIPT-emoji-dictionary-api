@@ -4,3 +4,8 @@
 
 .env
 node_modules
+
+utils
+index.html
+index.js
+backup
