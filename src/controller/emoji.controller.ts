@@ -14,10 +14,16 @@ export const allEmojis = (req: Request, res: Response) => {
 
 export const singleEmoji = (req: Request, res: Response) => {
   try {
-    const { emojiName } = req.params;
+    const { _id } = req.params;
     let singleEmojiDetails = emojis.find((emoji) => {
-      emoji.name === emojiName;
+      return emoji._id === _id;
     });
-    console.log(singleEmojiDetails);
-  } catch (error) {}
+    if (singleEmojiDetails) {
+      res.status(200).json(singleEmojiDetails);
+    } else {
+      throw new Error("emoji either doesnt exist or has been deleted");
+    }
+  } catch (error: object | any) {
+    res.status(400).json({ err: error.message });
+  }
 };

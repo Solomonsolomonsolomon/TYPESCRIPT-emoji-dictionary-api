@@ -7,6 +7,8 @@ export const testApi = (req: Request, res: Response) => {
     several routes are available
     / -this is test route 
     /emoji -gets all emojis
-    /emoji/:emojiName -get details for a specific emoji
-    `);
+    /emoji/:_id -get details for a specific emoji by emoji _id
+    /random/:number -returns n random emojis where n = number
+    /search :POST -D search 
+`);
 };

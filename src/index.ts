@@ -1,6 +1,8 @@
 import express, { Application, Request, Response, Router } from "express";
 import testRoute from "./routes/root.route";
+import randomRoute from "./routes/random.routes";
 import emojiRoute from "./routes/emojis.routes";
+import searchRoute from "./routes/search.routes";
 const port: string | number = process.env.PORT || 3000;
 const app: Application = express();
 app.use(express.json());
@@ -10,6 +12,9 @@ app.get("/hello", (req: Request, res: Response): any => {
 });
 app.use("/", testRoute);
 app.use("/emoji", emojiRoute);
+app.use("/", randomRoute);
+app.use("/", searchRoute);
+
 app.listen(port, () => {
   console.log(`listening on port ${port}`);
 });

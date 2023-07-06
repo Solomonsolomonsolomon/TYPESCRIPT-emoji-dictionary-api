@@ -2,834 +2,960 @@
   {
     "emoji": "😀",
     "name": "Grinning Face",
-    "meaning": "A yellow face with a broad, open smile and rosy cheeks, showing teeth.",
-    "tags": ["happy", "smiley", "laughing"]
-  },
-  {
-    "emoji": "😁",
-    "name": "Beaming Face with Smiling Eyes",
-    "meaning": "A yellow face with smiling eyes and a broad, closed smile with its tongue sticking out of one corner, as if licking its lips in appetite or contentment.",
-    "tags": ["happy", "smiley", "teeth", "laughing"]
-  },
-  {
-    "emoji": "😂",
-    "name": "Face with Tears of Joy",
-    "meaning": "A yellow face with a big grin, uplifted eyebrows, and laughing tears. Often conveys hysterical laughter, sometimes with a touch of irony.",
-    "tags": ["happy", "smiley", "tears", "laughing"]
-  },
-  {
-    "emoji": "🤣",
-    "name": "Rolling on the Floor Laughing",
-    "meaning": "A yellow face with a big grin, squinting eyes, and rolling tears, tilted on its side as if rolling on the floor laughing. Used to indicate hysterical laughter.",
-    "tags": ["happy", "smiley", "rolling", "laughing"]
+    "description": "A classic smiley face with a big grin.",
+    "tags": ["face", "smile", "happy"],
+    "_id": "0emjim6885992339220"
   },
   {
     "emoji": "😃",
-    "name": "Smiling Face with Open Mouth",
-    "meaning": "A yellow face with a broad, open smile, showing teeth on some platforms and with eyes closed on others. Often conveys general happiness and good-natured amusement.",
-    "tags": ["happy", "smiley", "smile"]
+    "name": "Grinning Face with Big Eyes",
+    "description": "A smiling face with open eyes and a big grin.",
+    "tags": ["face", "smile", "happy", "eyes"],
+    "_id": "1emjim6885992339231"
   },
   {
     "emoji": "😄",
-    "name": "Smiling Face with Open Mouth and Smiling Eyes",
-    "meaning": "A yellow face with smiling eyes and a broad, open smile, showing teeth on some platforms and with eyes closed on others. Often conveys general happiness and good-natured amusement.",
-    "tags": ["happy", "smiley", "eyes closed", "closed"]
-  },
-  {
-    "emoji": "😅",
-    "name": "Smiling Face with Open Mouth and Cold Sweat",
-    "meaning": "A yellow face with a big grin, raised eyebrows, and sweat drops, as if overheated from prolonged laughing or physical exertion. May convey a wide range of emotions, including hilarity, excitement, and exhaustion.",
-    "tags": ["happy", "smiley", "closed", "eyes closed", "sweat", "smile"]
-  },
-  {
-    "emoji": "😆",
-    "name": "Grinning Squinting Face",
-    "meaning": "A yellow face with a broad, open smile and scrunched, X-shaped eyes. Often conveys excitement or hearty laughter.",
-    "tags": ["happy", "smiley", "squinting", "smile"]
-  },
-  {
-    "emoji": "😉",
-    "name": "Winking Face",
-    "meaning": "A yellow face with a slight smile, winking eye, and neutral expression. Often used to indicate flirtation or joking.",
-    "tags": ["happy", "smiley", "wink", "smile"]
+    "name": "Grinning Face with Smiling Eyes",
+    "description": "A smiling face with smiling eyes.",
+    "tags": ["face", "smile", "happy", "eyes"],
+    "_id": "2emjim6885992339232"
   },
   {
     "emoji": "😊",
     "name": "Smiling Face with Smiling Eyes",
-    "meaning": "A yellow face with smiling eyes and a closed smile turning up to rosy cheeks. Often conveys general happiness and good-natured amusement.",
-    "tags": ["happy", "smiley", "eyes closed", "closed"]
-  },
-  {
-    "emoji": "😋",
-    "name": "Face Savoring Food",
-    "meaning": "A yellow face with smiling eyes, a closed smile, and a tongue sticking out of one corner of its mouth, as if licking its lips in appetite or contentment. May indicate a love of delicious food, a sense of indulgence, or a general enjoyment of life's pleasures.",
-    "tags": ["happy", "smiley", "tongue", "eyes closed", "closed"]
+    "description": "A face with a beaming smile and smiling eyes.",
+    "tags": ["face", "smile", "happy", "eyes"],
+    "_id": "3emjim6885992339233"
   },
   {
     "emoji": "😍",
     "name": "Smiling Face with Heart-Eyes",
-    "meaning": "A yellow face with smiling eyes, a closed smile, rosy cheeks.Often conveys enthusiastic feelings of love, infatuation, and adoration, e.g., I love/am in love with this person or thing.",
-    "tags": [
-      "happy",
-      "smiley",
-      "heart",
-      "heart eyes",
-      "smile",
-      "love",
-      "affectionate"
-    ]
+    "description": "A face with hearts for eyes, expressing love or adoration.",
+    "tags": ["face", "smile", "love", "heart"],
+    "_id": "4emjim6885992339234"
   },
   {
-    "emoji": "😚",
-    "name": "Kissing Face with Closed Eyes",
-    "meaning": "A yellow face with a closed smile, rosy cheeks, and closed eyes, as if kissing someone or showing love and affection. Often conveys feelings of love and happiness.",
-    "tags": ["blushing", "kissing", "affectionate", "closed", "eyes closed"]
-  },
-  {
-    "emoji": "😛",
-    "name": "Face with Tongue",
-    "meaning": "A yellow face sticking out its tongue and making a face, as if having just made a joke or being silly. May be used as a playful or teasing emoji.",
-    "tags": ["tongue", "smile"]
-  },
-  {
-    "emoji": "😜",
-    "name": "Winking Face with Tongue",
-    "meaning": "A yellow face with a winking eye and sticking out its tongue. Often used to convey a sense of joking, playfulness, or sarcasm.",
-    "tags": ["tongue", "wink"]
-  },
-  {
-    "emoji": "😝",
-    "name": "Squinting Face with Tongue",
-    "meaning": "A yellow face with scrunched, X-shaped eyes and sticking out its tongue. May convey a sense of playful sarcasm or irony, as if saying something that is technically true but with a playful wink.",
-    "tags": ["closed", "eyes closed", "tongue"]
-  },
-  {
-    "emoji": "😞",
-    "name": "Disappointed Face",
-    "meaning": "A yellow face with a frown and closed, downcast eyes, as if feeling disappointed or unhappy. Often conveys feelings of sadness, disappointment, or regret.",
-    "tags": ["disappointed", "eyes closed"]
-  },
-  {
-    "emoji": "😟",
-    "name": "Worried Face",
-    "meaning": "A yellow face with a frown and concerned-looking eyes, as if anxious, worried, or unhappy. Often conveys feelings of concern, anxiety, or fear.",
-    "tags": ["worried"]
-  },
-  {
-    "emoji": "😠",
-    "name": "Angry Face",
-    "meaning": "A yellow face with a furrowed brow, angry-looking eyes, and frown, as if in a fit of rage. Often conveys feelings of anger, frustration, or annoyance.",
-    "tags": ["mad", "angry"]
-  },
-  {
-    "emoji": "😡",
-    "name": "Pouting Face",
-    "meaning": "A red face with a furrowed brow, angry-looking eyes, and a frown, as if extremely upset or angry. Often conveys feelings of extreme anger, frustration, or annoyance.",
-    "tags": ["red", "angry", "mad"]
-  },
-  {
-    "emoji": "😢",
-    "name": "Crying Face",
-    "meaning": "A yellow face with a single tear drop, as if expressing sadness or disappointment. Often conveys feelings of sadness, regret, or sympathy.",
-    "tags": ["sad", "tears"]
-  },
-  {
-    "emoji": "😣",
-    "name": "Persevering Face",
-    "meaning": "A yellow face with a furrowed brow, looking down, and a sad mouth. Often conveys feelings of sadness, disappointment, or frustration, but also determination to keep going.",
-    "tags": ["perservering", "face"]
-  },
-  {
-    "emoji": "😤",
-    "name": "Face with Steam From Nose",
-    "meaning": "A yellow face with a scowl, raised eyebrows, and a puff of steam or smoke above its head, as if in a huff or about to blow off steam. May convey a range of negative emotions, including frustration, anger, and contempt.",
-    "tags": ["angry", "mad", "steam", "fuming"]
-  },
-  {
-    "emoji": "😥",
-    "name": "Sad but Relieved Face",
-    "meaning": "A yellow face with small, open eyes, a slight frown, and furrowed eyebrows, from which a single bead of sweat drips, as if from concern or anxiety. Also known as Disappointed but Relieved Face, suggesting the smiley is upset but is grateful things didn’t turn out worse. ",
-    "tags": ["sad", "relieved", "sweat"]
-  },
-  {
-    "emoji": "😍",
-    "name": "Smiling Face with Heart-Eyes",
-    "meaning": "A yellow face with smiling eyes, a closed smile, rosy cheeks, and several hearts floating around its head. Expresses a range of happy, affectionate feelings, especially being in love.",
-    "tags": ["heart", "smiling", "happy", "heart eyes"]
+    "emoji": "🤩",
+    "name": "Star-Struck",
+    "description": "A face with starry eyes, indicating being starstruck or impressed.",
+    "tags": ["face", "smile", "star", "impressed"],
+    "_id": "5emjim6885992339235"
   },
   {
     "emoji": "😎",
     "name": "Smiling Face with Sunglasses",
-    "meaning": "A yellow face with a broad, closed smile wearing black sunglasses, as if a pair of classic Wayfarers. Often used to convey the concept of coolness, smartness, sophistication, or general swag.",
-    "tags": ["smiley", "smile", "cool", "sunglasses"]
-  },
-  {
-    "emoji": "😐",
-    "name": "Neutral Face",
-    "meaning": "A yellow face with a flat, neutral mouth and furrowed eyebrows, indicating a range of moderate emotions, including disappointment, frustration, or concern.",
-    "tags": ["indifferent"]
-  },
-  {
-    "emoji": "😑",
-    "name": "Expressionless Face",
-    "meaning": "A yellow face with flat, closed eyes and mouth, and a blank expression. Often represents a deadpan sense of humor or emotionlessness.",
-    "tags": ["indifferent"]
-  },
-  {
-    "emoji": "😒",
-    "name": "Unamused Face",
-    "meaning": "A yellow face with slightly raised eyebrows and a flat, closed mouth. May convey a range of negative emotions, including irritation, skepticism, and disapproval.",
-    "tags": ["indifferent"]
-  },
-  {
-    "emoji": "😓",
-    "name": "Downcast Face with Sweat",
-    "meaning": "A yellow face with raised eyebrows, a small, closed mouth, and a drop of sweat, as if exerting effort or feeling relieved. May convey a wide range of emotions, including stress, anxiety, exhaustion, and satisfaction.",
-    "tags": ["sad","stress"]
-  },
-  {
-    "emoji": "😔",
-    "name": "Pensive Face",
-    "meaning": "A pensive, remorseful face. Saddened by life circumstances. Quietly considering where things all went wrong.",
-    "tags": ["sad"]
-  },
-  {
-    "emoji": "😕",
-    "name": "Confused Face",
-    "meaning": "A yellow face with open eyes and a skewed mouth, often as if scrunching its cheeks or chewing its lips. Often conveys a wide range of confused or ambiguous emotions, including feeling lost, uncertain, or skeptical.",
-    "tags": ["confused"]
-  },
-  {
-    "emoji": "😖",
-    "name": "Confounded Face",
-    "meaning": "A yellow face with scrunched, X-shaped eyes and a furrowed brow, as if holding back tears or exerting great effort. May convey varying degrees of frustration or anxiety, as well as feelings of sadness or disappointment.",
-    "tags": []
-  },
-  {
-    "emoji": "😗",
-    "name": "Kissing Face",
-    "meaning": "A yellow face with simple, open eyes and puckered lips giving a kiss. Commonly conveys sentiments of love and affection.",
-    "tags": []
-  },
-  {
-    "emoji": "😘",
-    "name": "Face Blowing a Kiss",
-    "meaning": "A yellow face with a broad, open smile and one or two hearts floating in the air, as if giving a kiss. May be used to express love, affection, or gratitude.",
-    "tags": []
-  },
-  {
-    "emoji": "😙",
-    "name": "Kissing Face with Smiling Eyes",
-    "meaning": "A yellow face with smiling eyes and puckered lips giving a kiss. Commonly conveys sentiments of love and affection",
-    "tags": []
-  },
-  {
-    "emoji": "😦",
-    "name": "Frowning Face with Open Mouth",
-    "meaning": "A yellow face with a frown and open, downcast mouth, as if feeling down or troubled. Often conveys feelings of disappointment, worry, or sadness.",
-    "tags": []
-  },
-  {
-    "emoji": "😧",
-    "name": "Anguished Face",
-    "meaning": "A yellow face with a frown and closed, downcast eyes, as if experiencing a deep sense of anguish or pain. Often conveys feelings of intense sadness, grief, or despair."
-  },
-  {
-    "emoji": "😨",
-    "name": "Fearful Face",
-    "meaning": "A yellow face with wide eyes, raised eyebrows, and a slight frown, as if experiencing a moment of shock, surprise, or fear. Often conveys feelings of anxiety, apprehension, or nervousness."
-  },
-  {
-    "emoji": "😩",
-    "name": "Weary Face",
-    "meaning": "A yellow face with closed eyes and a deep frown, as if exhausted and worn out. Often conveys feelings of extreme tiredness, frustration, or exasperation."
-  },
-  {
-    "emoji": "😪",
-    "name": "Sleepy Face",
-    "meaning": "A yellow face with closed eyes and a relaxed, slightly downturned mouth, as if sleepy or asleep. Often used to convey feelings of tiredness or boredom."
-  },
-  {
-    "emoji": "😫",
-    "name": "Tired Face",
-    "meaning": "A yellow face with closed eyes and a slightly open mouth, as if sighing or expressing tiredness. Often conveys feelings of exhaustion, weariness, or boredom."
-  },
-  {
-    "emoji": "😬",
-    "name": "Grimacing Face",
-    "meaning": "A yellow face with a grimace and closed eyes, as if feeling awkward, embarrassed, or uncomfortable. Often conveys feelings of nervousness, unease, or tension."
-  },
-  {
-    "emoji": "😭",
-    "name": "Loudly Crying Face",
-    "meaning": "A yellow face with a strong sense of sadness and crying, with tears streaming down the cheeks. Often used to convey feelings of extreme sadness, grief, or disappointment."
-  },
-  {
-    "emoji": "😮",
-    "name": "Face with Open Mouth",
-    "meaning": "A yellow face with open, round eyes and a wide-open mouth, as if gasping in shock, surprise, or amazement. Often conveys feelings of astonishment, wonder, or disbelief."
-  },
-  {
-    "emoji": "😯",
-    "name": "Hushed Face",
-    "meaning": "A yellow face with closed eyes, a slight frown, and a neutral expression, as if deep in thought, surprised, or considering a difficult question. Often conveys feelings of thoughtfulness, concern, or puzzlement."
-  },
-  {
-    "emoji": "😰",
-    "name": "Anxious Face with Sweat",
-    "meaning": "A yellow face with raised eyebrows, a frown, and beads of sweat dripping from its forehead, as if feeling anxious, stressed, or worried. Often conveys feelings of tension, apprehension, or nervousness."
-  },
-  {
-    "emoji": "😱",
-    "name": "Face Screaming in Fear",
-    "meaning": "A yellow face with wide eyes, raised eyebrows,mouth wide open,and hands on face. Often used to express extremes of emotion: both negative and positive ones that would elicit screaming, whether horrified or excited."
-  },
-  {
-    "emoji": "😲",
-    "name": "Astonished Face",
-    "meaning": "A yellow face with open eyes and a wide-open mouth, as if gasping in shock, surprise, or disbelief. Often conveys feelings of amazement, awe, or admiration."
-  },
-  {
-    "emoji": "😳",
-    "name": "Flushed Face",
-    "meaning": "A yellow face with wide eyes and a slightly open mouth, as if feeling embarrassed, shocked, or surprised. Often used to convey feelings of embarrassment, shyness, or confusion."
-  },
-  {
-    "emoji": "😴",
-    "name": "Sleeping Face",
-    "meaning": "A yellow face with closed eyes and a small, peaceful smile, as if sleeping soundly. Often used to convey feelings of sleepiness, relaxation, or contentment."
-  },
-  {
-    "emoji": "😵",
-    "name": "Dizzy Face",
-    "meaning": "A yellow face with closed eyes, a frown, and spiral spirals above its head, as if feeling dizzy, disoriented, or lightheaded. Often conveys feelings of confusion, bewilderment, or dizziness."
-  },
-  {
-    "emoji": "😶",
-    "name": "Face Without Mouth",
-    "meaning": "A yellow face with closed eyes and no mouth, as if silent or speechless. Often used to convey feelings of neutrality, deadpan humor, or awkwardness."
-  },
-  {
-    "emoji": "😷",
-    "name": "Face with Medical Mask",
-    "meaning": "A yellow face with closed eyes and a surgical mask over its mouth, as if to protect against airborne illness or pollution. Often used during the COVID-19 pandemic or during flu season."
-  },
-  {
-    "emoji": "🙁",
-    "name": "Slightly Frowning Face",
-    "meaning": "A yellow face with a small frown and closed eyes, as if slightly unhappy or disappointed. Often used to convey mild sadness, disappointment, or concern."
-  },
-  {
-    "emoji": "🙂",
-    "name": "Slightly Smiling Face",
-    "meaning": "A yellow face with a small smile and closed eyes, as if slightly happy or content. Often used to convey mild joy, satisfaction, or approval."
-  },
-  {
-    "emoji": "🙃",
-    "name": "Upside-Down Face",
-    "meaning": "A yellow face with a small smile and upside-down eyebrows, as if being playful or silly. Often used to convey a sense of humor, lightheartedness, or sarcasm."
-  },
-  {
-    "emoji": "🙄",
-    "name": "Face with Rolling Eyes",
-    "meaning": "A yellow face with a flat, closed mouth and eyes rolling upwards, as if to express annoyance, impatience, or disbelief. Often used to convey a sense of irritation, exasperation, or frustration."
-  },
-  {
-    "emoji": "🤐",
-    "name": "Zipper-Mouth Face",
-    "meaning": "A yellow face with a zipper on its mouth, as if to indicate keeping a secret or staying silent. Often used to convey feelings of secrecy, privacy, or discomfort."
-  },
-  {
-    "emoji": "🤑",
-    "name": "Money-Mouth Face",
-    "meaning": "The money-mouth face emoji is a smiley face with dollar signs in place of the eyes and a wide, grinning mouth. It is often used to represent wealth, greed, or materialism, or to indicate that something is expensive or valuable."
-  },
-
-  {
-    "emoji": "🤔",
-    "name": "Thinking Face",
-    "meaning": "A yellow face with a raised eyebrow and a hand resting on its chin, as if deep in thought or puzzlement. Often used to convey feelings of contemplation, evaluation, or skepticism."
-  },
-  {
-    "emoji": "🤕",
-    "name": "Face with Head-Bandage",
-    "meaning": "A yellow face with a head bandage wrapped around its forehead, as if to indicate injury or pain. Often used to convey feelings of discomfort, pain, or distress."
-  },
-  {
-    "emoji": "🤢",
-    "name": "Nauseated Face",
-    "meaning": "A green face with scrunched eyes and a furrowed brow, as if feeling nauseated or sick. Often used to convey feelings of illness, disgust, or aversion."
-  },
-  {
-    "emoji": "🤮",
-    "name": "Face Vomiting",
-    "meaning": "A green face with scrunched eyes and an open mouth, as if vomiting. Often used to convey feelings of sickness, disgust, or repulsion."
-  },
-  {
-    "emoji": "🤯",
-    "name": "Exploding Head",
-    "meaning": "A yellow face with an exploding head, as if blown away by something incredible or mind-blowing. Often used to convey feelings of amazement, shock, or surprise."
+    "description": "A face with sunglasses, representing coolness or a carefree attitude.",
+    "tags": ["face", "smile", "sunglasses", "cool"],
+    "_id": "6emjim6885992339236"
   },
   {
     "emoji": "🥳",
-    "name": "Partying Face",
-    "meaning": "A yellow face wearing a party hat and blowing a party horn, as if celebrating a special occasion. Often used to convey feelings of excitement, joy, or celebration."
-  },
-  {
-    "emoji": "🥺",
-    "name": "Pleading Face",
-    "meaning": "A yellow face with large, puppy-dog eyes and a slight frown, as if pleading or begging for something. Often used to convey feelings of sadness, longing, or desperation."
-  },
-  {
-    "emoji": "🥴",
-    "name": "Woozy Face",
-    "meaning": "A yellow face with a crumpled mouth and half-closed eyes, as if dizzy or disoriented. Often used to convey feelings of confusion, lightheadedness, or drunkenness."
-  },
-  {
-    "emoji": "🥵",
-    "name": "Hot Face",
-    "meaning": "A yellow face with a flushed red face and droplets of sweat, as if overheated or suffering from a fever. Often used to convey feelings of heat, exhaustion, or discomfort."
-  },
-  {
-    "emoji": "🥶",
-    "name": "Cold Face",
-    "meaning": "A blue face with icicles forming on its cheeks, as if extremely cold or freezing. Often used to convey feelings of coldness, frostbite, or winter weather."
-  },
-  {
-    "emoji": "🥳",
-    "name": "Partying Face",
-    "meaning": "A yellow face wearing a party hat and blowing a party horn, as if celebrating a special occasion. Often used to convey feelings of excitement, joy, or celebration."
-  },
-  {
-    "emoji": "🦷",
-    "name": "Tooth",
-    "meaning": "A single, white tooth, often displayed with a blue or green background. May represent dentistry, dental care, or a toothy grin. Can also be used to indicate teeth in general."
-  },
-  {
-    "emoji": "🦴",
-    "name": "Bone",
-    "meaning": "A bone with meat still attached, often depicted as a cartoonish steak. May represent food, cooking, or butchery, or simply the human skeleton."
-  },
-  {
-    "emoji": "🦾",
-    "name": "Mechanical Arm",
-    "meaning": "A mechanical arm, often depicted in a robotic or futuristic style. May represent technology, prosthetics, or strength."
-  },
-  {
-    "emoji": "🦿",
-    "name": "Mechanical Leg",
-    "meaning": "A mechanical leg, often depicted in a robotic or futuristic style. May represent technology, prosthetics, or mobility."
-  },
-  {
-    "emoji": "🧊",
-    "name": "Ice",
-    "meaning": "A chunk of ice, often shown with icicles or frost. May represent cold temperatures, winter weather, or refreshing drinks."
-  },
-  {
-    "emoji": "🧔",
-    "name": "Bearded Person",
-    "meaning": "A person with a full beard, often shown wearing a hat. May represent masculinity, maturity, or a hipster aesthetic."
-  },
-  {
-    "emoji": "🧒",
-    "name": "Child",
-    "meaning": "A child, often shown with short hair and a round face. May represent youth, innocence, or playfulness."
-  },
-  {
-    "emoji": "🧑",
-    "name": "Person",
-    "meaning": "A generic person, often shown with short hair and a neutral expression. May represent anyone or everyone."
-  },
-  {
-    "emoji": "🧓",
-    "name": "Older Person",
-    "meaning": "An older person, often shown with white hair and wrinkles. May represent wisdom, experience, or aging."
-  },
-  {
-    "emoji": "🧕",
-    "name": "Woman with Headscarf",
-    "meaning": "A woman wearing a headscarf, often associated with Muslim culture or religion. May represent modesty, piety, or tradition."
-  },
-  {
-    "emoji": "🧔‍♂️",
-    "name": "Man: Beard",
-    "meaning": "A man with a full beard, often shown wearing a hat. May represent masculinity, maturity, or a hipster aesthetic."
-  },
-  {
-    "emoji": "🧒‍♀️",
-    "name": "Girl",
-    "meaning": "A young girl, often shown with pigtails and a dress. May represent youth, innocence, or playfulness."
-  },
-
-  {
-    "emoji": "🧔‍♀️",
-    "name": "Woman: Beard",
-    "meaning": "A woman with a full beard, often shown wearing a hat. May represent femininity, gender identity, or a statement against gender norms."
-  },
-  {
-    "emoji": "🧕‍♀️",
-    "name": "Woman with Headscarf",
-    "meaning": "A woman wearing a headscarf, often associated with Muslim culture or religion. May represent modesty, piety, or tradition."
-  },
-  {
-    "emoji": "🧑‍🎄",
-    "name": "Person: Christmas",
-    "meaning": "A person wearing a Santa hat, often associated with Christmas and the holiday season. May represent joy, festivity, or gift-giving."
-  },
-  {
-    "emoji": "🧙",
-    "name": "Mage",
-    "meaning": "A wizard or magician, often shown with a hat and staff. May represent fantasy, magic, or a sense of mystery."
-  },
-  {
-    "emoji": "🧚",
-    "name": "Fairy",
-    "meaning": "A fairy with wings, often depicted as a small, magical creature. May represent fantasy, whimsy, or enchantment."
-  },
-  {
-    "emoji": "🧛",
-    "name": "Vampire",
-    "meaning": "A vampire with fangs and a cape, often depicted as a bloodsucking creature of the night. May represent horror, darkness, or a sense of danger."
-  },
-  {
-    "emoji": "🧜",
-    "name": "Mermaid",
-    "meaning": "A mermaid with a fish tail and long hair, often depicted as a beautiful and mysterious creature of the sea. May represent fantasy, romance, or a sense of mystery."
-  },
-  {
-    "emoji": "🧝",
-    "name": "Elf",
-    "meaning": "An elf with pointy ears and a hat, often depicted as a magical creature of the forest. May represent fantasy, magic, or a sense of wonder."
-  },
-  {
-    "emoji": "🧞",
-    "name": "Genie",
-    "meaning": "A genie with a turban and magic lamp, often depicted as a powerful and wish-granting creature. May represent fantasy, magic, or a sense of wonder."
-  },
-  {
-    "emoji": "🧟",
-    "name": "Zombie",
-    "meaning": "A zombie with rotting flesh and blank eyes, often depicted as an undead creature. May represent horror, death, or decay."
-  },
-  {
-    "emoji": "🧠",
-    "name": "Brain",
-    "meaning": "A pink or gray brain, often shown with squiggly lines or electrical bolts. May represent intelligence, thinking, or the mind."
-  },
-  {
-    "emoji": "🧡",
-    "name": "Orange Heart",
-    "meaning": "A heart colored orange, often used to represent love or warmth. May also represent enthusiasm, energy, or friendship."
-  },
-  {
-    "emoji": "🍕",
-    "name": "Pizza",
-    "meaning": "A slice of pizza with tomato sauce, cheese, and toppings, often shown with pepperoni. May represent food, hunger, or a craving for Italian cuisine."
-  },
-  {
-    "emoji": "🍔",
-    "name": "Hamburger",
-    "meaning": "A hamburger with a beef patty, lettuce, and tomato, often shown with cheese and a bun. May represent fast food, cravings, or a desire for a juicy burger."
-  },
-  {
-    "emoji": "🍟",
-    "name": "French Fries",
-    "meaning": "A serving of hot, crispy French fries in a red carton. May represent fast food, snacks, or a craving for salty food."
-  },
-  {
-    "emoji": "🥞",
-    "name": "Pancakes",
-    "meaning": "A stack of pancakes with butter and syrup, often served for breakfast. May represent comfort food, indulgence, or a desire for a sweet treat."
-  },
-  {
-    "emoji": "🥓",
-    "name": "Bacon",
-    "meaning": "A strip of bacon with white fat and crispy edges, often served for breakfast. May represent indulgence, savory flavors, or a love of meat."
-  },
-  {
-    "emoji": "🥩",
-    "name": "Steak",
-    "meaning": "A cut of beef cooked to a desired level of doneness, often served with vegetables or potatoes. May represent fine dining, indulgence, or a love of meat."
-  },
-  {
-    "emoji": "🍣",
-    "name": "Sushi",
-    "meaning": "A Japanese dish consisting of bite-sized pieces of raw fish on top of rice, often served with soy sauce and wasabi. May represent exotic cuisine, delicacy, or a love of seafood."
-  },
-  {
-    "emoji": "🍱",
-    "name": "Bento Box",
-    "meaning": "A Japanese lunch box with a variety of foods, often arranged in a decorative way. May represent convenience, portability, or a love of Japanese cuisine."
-  },
-  {
-    "emoji": "🍺",
-    "name": "Beer Mug",
-    "meaning": "A frosty mug of beer with foam on top, often served at a bar or pub. May represent relaxation, celebration, or a desire for a cold drink."
-  },
-  {
-    "emoji": "🍷",
-    "name": "Wine Glass",
-    "meaning": "A glass filled with red or white wine, often served with a meal or as a social drink. May represent sophistication, relaxation, or a love of wine."
-  },
-  {
-    "emoji": "🍸",
-    "name": "Martini",
-    "meaning": "A classic cocktail consisting of gin and vermouth, often served with an olive or a twist of lemon. May represent sophistication, glamour, or a desire for a fancy drink."
-  },
-  {
-    "emoji": "🥤",
-    "name": "Cup with Straw",
-    "meaning": "A cup with a lid and straw, often used for cold drinks such as soda or iced coffee. May represent convenience, refreshment, or a craving for a sweet drink."
-  },
-
-  {
-    "emoji": "🧁",
-    "name": "Cupcake",
-    "meaning": "A small cake with frosting and decorations, often served at birthday parties or other celebrations. May represent sweetness, indulgence, or a love of baked goods."
-  },
-  {
-    "emoji": "🍦",
-    "name": "Soft Serve Ice Cream",
-    "meaning": "A swirl of soft serve ice cream in a cone, often available in various flavors. May represent summer, dessert, or a craving for a cold treat."
-  },
-  {
-    "emoji": "🍩",
-    "name": "Donut",
-    "meaning": "A round pastry with a hole in the center and often topped with icing or sprinkles. May represent indulgence, breakfast, or a love of baked goods."
-  },
-  {
-    "emoji": "🍪",
-    "name": "Cookie",
-    "meaning": "A round, flat baked good with chocolate chips, nuts, or other ingredients. May represent indulgence, snacking, or a love of baked goods."
-  },
-  {
-    "emoji": "🥐",
-    "name": "Croissant",
-    "meaning": "A flaky pastry made of buttery dough and often served with coffee or tea. May represent indulgence, breakfast, or a love of French cuisine."
-  },
-  {
-    "emoji": "🍞",
-    "name": "Bread",
-    "meaning": "A loaf or slice of bread, often used for sandwiches or toast. May represent comfort food, sustenance, or a love of carbs."
-  },
-  {
-    "emoji": "🍅",
-    "name": "Tomato",
-    "meaning": "A red fruit often used in salads, sandwiches, and pasta dishes. May represent healthy eating, summer, or a love of Italian cuisine."
-  },
-  {
-    "emoji": "🥕",
-    "name": "Carrot",
-    "meaning": "An orange root vegetable often used in salads, soups, and stews. May represent healthy eating, a love of vegetables, or a reference to Bugs Bunny."
-  },
-  {
-    "emoji": "🥬",
-    "name": "Leafy Green",
-    "meaning": "A bunch of leafy greens, such as lettuce, kale, or spinach. May represent healthy eating, a love of vegetables, or a reference to a salad."
-  },
-  {
-    "emoji": "🍆",
-    "name": "Eggplant",
-    "meaning": "A purple vegetable often used in Mediterranean and Asian cuisine. May represent healthy eating, a love of vegetables, or a reference to a certain emoji connotation."
-  },
-  {
-    "emoji": "🥦",
-    "name": "Broccoli",
-    "meaning": "A green vegetable often used in stir-fry dishes, soups, and salads. May represent healthy eating, a love of vegetables, or a reference to a certain meme."
-  },
-  {
-    "emoji": "🥔",
-    "name": "Potato",
-    "meaning": "A starchy root vegetable often used in mashed potatoes, fries, and baked dishes. May represent comfort food, a love of carbs, or a reference to a certain meme."
-  },
-  {
-    "emoji": "🍇",
-    "name": "Grapes",
-    "meaning": "A bunch of purple or green grapes, often used in fruit salads and wine-making. May represent health, abundance, or a love of wine."
-  },
-  {
-    "emoji": "🍉",
-    "name": "Watermelon",
-    "meaning": "A juicy fruit with pink or red flesh and black seeds, often eaten in the summer. May represent refreshment, summertime, or a love of fruit."
-  },
-  {
-    "emoji": "🥭",
-    "name": "Mango",
-    "meaning": "A tropical fruit with a sweet, juicy flesh and a large, flat seed. Often used in smoothies, salads, and desserts. May represent exoticism, indulgence, or a love of fruit."
-  },
-  {
-    "emoji": "🍊",
-    "name": "Tangerine",
-    "meaning": "A small, sweet citrus fruit with a thin skin and easy-to-peel segments. Often eaten as a snack or used in salads and desserts. May represent health, refreshment, or a love of citrus."
-  },
-  {
-    "emoji": "🥑",
-    "name": "Avocado",
-    "meaning": "A green fruit with a soft, buttery flesh, often used in guacamole and salads. May represent health, indulgence, or a love of Mexican cuisine."
-  },
-  {
-    "emoji": "🍍",
-    "name": "Pineapple",
-    "meaning": "A tropical fruit with a rough, spiky exterior and sweet, juicy flesh. Often used in fruit salads and as a topping for pizza and burgers. May represent hospitality, exoticism, or a love of fruit."
-  },
-  {
-    "emoji": "🍌",
-    "name": "Banana",
-    "meaning": "A yellow fruit with a sweet, creamy flesh, often used in smoothies, baked goods, and as a healthy snack. May represent health, energy, or a love of fruit."
-  },
-  {
-    "emoji": "🌧️",
-    "name": "Cloud with Rain",
-    "meaning": "Depicts a cloud with raindrops falling from it"
-  },
-  {
-    "emoji": "🔪",
-    "name": "Kitchen Knife",
-    "meaning": "A sharp knife typically used in cooking"
-  },
-  {
-    "emoji": "🎲",
-    "name": "Die",
-    "meaning": "A six-sided die used in games of chance"
-  },
-  {
-    "emoji": "🥁",
-    "name": "Drum",
-    "meaning": "A percussion instrument typically played with drumsticks"
-  },
-  {
-    "emoji": "🕷️",
-    "name": "Spider",
-    "meaning": "Depicts a black spider with eight legs"
-  },
-  {
-    "emoji": "👑",
-    "name": "Crown",
-    "meaning": "A jeweled crown typically worn by royalty"
-  },
-  {
-    "emoji": "🚁",
-    "name": "Helicopter",
-    "meaning": "Depicts a helicopter with rotors spinning"
-  },
-  {
-    "emoji": "🌊",
-    "name": "Water Wave",
-    "meaning": "Depicts a wave with white foam at the top"
-  },
-  {
-    "emoji": "🏹",
-    "name": "Bow and Arrow",
-    "meaning": "Depicts a bow with an arrow pulled back and ready to fire"
-  },
-  {
-    "emoji": "🦈",
-    "name": "Shark",
-    "meaning": "Depicts a grey shark with a fin and sharp teeth"
-  },
-  {
-    "emoji": "🕰️",
-    "name": "Mantelpiece Clock",
-    "meaning": "Depicts a vintage clock typically found on a mantelpiece"
-  },
-  {
-    "emoji": "🎺",
-    "name": "Trumpet",
-    "meaning": "A brass musical instrument with a flared bell and three valves"
-  },
-  {
-    "emoji": "🦢",
-    "name": "Swan",
-    "meaning": "Depicts a graceful swan with a long neck and white feathers"
-  },
-  {
-    "emoji": "🐌",
-    "name": "Snail",
-    "meaning": "Depicts a snail with a spiral shell and a slimy body"
-  },
-  {
-    "emoji": "🧩",
-    "name": "Jigsaw Puzzle Piece",
-    "meaning": "Depicts a single puzzle piece with interlocking tabs"
-  },
-  {
-    "emoji": "🚀",
-    "name": "Rocket",
-    "meaning": "Depicts a spaceship blasting off into outer space"
+    "name": "Party Popper",
+    "description": "A colorful party popper, used to celebrate joyous occasions.",
+    "tags": ["party", "celebration", "fun"],
+    "_id": "7emjim6885992339237"
   },
   {
     "emoji": "🌺",
     "name": "Hibiscus",
-    "meaning": "Depicts a vibrant pink or red hibiscus flower with green leaves"
-  },
-  {
-    "emoji": "👓",
-    "name": "Eyeglasses",
-    "meaning": "Depicts a pair of eyeglasses with black frames and clear lenses"
-  },
-  {
-    "emoji": "🥞",
-    "name": "Pancakes",
-    "meaning": "Depicts a stack of pancakes with butter and syrup on top"
-  },
-  {
-    "emoji": "🎨",
-    "name": "Artist Palette",
-    "meaning": "Depicts a painter's palette with various colors of paint"
-  },
-  {
-    "emoji": "📌",
-    "name": "Pushpin",
-    "meaning": "Depicts a red or blue pushpin used for marking locations on a map"
-  },
-  {
-    "emoji": "🌄",
-    "name": "Sunrise Over Mountains",
-    "meaning": "Depicts a golden sunrise over a mountain range"
-  },
-  {
-    "emoji": "🍠",
-    "name": "Roasted Sweet Potato",
-    "meaning": "Depicts a sweet potato that has been roasted and split open"
-  },
-  {
-    "emoji": "🎻",
-    "name": "Violin",
-    "meaning": "A stringed musical instrument with a hollow wooden body and four strings"
-  },
-  {
-    "emoji": "🛢️",
-    "name": "Oil Drum",
-    "meaning": "Depicts a metal drum used for storing oil or other liquids"
-  },
-  {
-    "emoji": "🍭",
-    "name": "Lollipop",
-    "meaning": "Depicts a colorful candy on a stick"
-  },
-  {
-    "emoji": "🛍️",
-    "name": "Shopping Bags",
-    "meaning": "Depicts two shopping bags, often used to represent shopping or consumerism"
+    "description": "A bright and colorful hibiscus flower.",
+    "tags": ["flower", "nature", "hibiscus"],
+    "_id": "8emjim6885992339238"
   },
   {
     "emoji": "🌈",
     "name": "Rainbow",
-    "meaning": "Depicts a colorful arc of light in the sky"
+    "description": "A beautiful rainbow with various colors.",
+    "tags": ["rainbow", "colorful", "weather"],
+    "_id": "9emjim6885992339239"
   },
   {
-    "emoji": "🎬",
-    "name": "Clapper Board",
-    "meaning": "Depicts a clapper board used in movie production"
+    "emoji": "🌞",
+    "name": "Sun",
+    "description": "A bright and shining sun.",
+    "tags": ["sun", "weather", "summer"],
+    "_id": "10emjim68859923392310"
   },
   {
-    "emoji": "🎁",
-    "name": "Wrapped Gift",
-    "meaning": "Depicts a gift box wrapped with a ribbon and bow"
+    "emoji": "🌙",
+    "name": "Crescent Moon",
+    "description": "A crescent moon, representing nighttime or sleep.",
+    "tags": ["moon", "night", "sleep"],
+    "_id": "11emjim68859923392311"
   },
   {
-    "emoji": "❤",
+    "emoji": "⭐",
+    "name": "Star",
+    "description": "A classic five-pointed star.",
+    "tags": ["star", "favorite", "highlight"],
+    "_id": "12emjim68859923392312"
+  },
+  {
+    "emoji": "🍀",
+    "name": "Four Leaf Clover",
+    "description": "A four-leaf clover, believed to bring good luck.",
+    "tags": ["clover", "luck", "green"],
+    "_id": "13emjim68859923392313"
+  },
+  {
+    "emoji": "🌸",
+    "name": "Cherry Blossom",
+    "description": "A pink flower blossom, usually depicted as a cherry blossom.",
+    "tags": ["flower", "nature", "cherry blossom"],
+    "_id": "14emjim68859923392314"
+  },
+  {
+    "emoji": "🌼",
+    "name": "Blossom",
+    "description": "A yellow flower blossom, representing beauty and nature.",
+    "tags": ["flower", "nature", "blossom"],
+    "_id": "15emjim68859923392315"
+  },
+  {
+    "emoji": "🌳",
+    "name": "Deciduous Tree",
+    "description": "A green deciduous tree, often representing nature and the environment.",
+    "tags": ["tree", "nature", "green"],
+    "_id": "16emjim68859923392316"
+  },
+  {
+    "emoji": "🌵",
+    "name": "Cactus",
+    "description": "A desert cactus, known for its resilience in arid conditions.",
+    "tags": ["cactus", "desert", "plant"],
+    "_id": "17emjim68859923392317"
+  },
+  {
+    "emoji": "🍁",
+    "name": "Maple Leaf",
+    "description": "A vibrant red maple leaf, representing autumn and Canada.",
+    "tags": ["leaf", "autumn", "fall"],
+    "_id": "18emjim68859923392318"
+  },
+  {
+    "emoji": "🍓",
+    "name": "Strawberry",
+    "description": "A juicy red strawberry, often associated with summer and sweetness.",
+    "tags": ["fruit", "strawberry", "sweet"],
+    "_id": "19emjim68859923392319"
+  },
+  {
+    "emoji": "🐶",
+    "name": "Dog",
+    "description": "A friendly and loyal dog.",
+    "tags": ["dog", "pet", "animal"],
+    "_id": "20emjim68859923392320"
+  },
+  {
+    "emoji": "🐱",
+    "name": "Cat",
+    "description": "A cute and playful cat.",
+    "tags": ["cat", "pet", "animal"],
+    "_id": "21emjim68859923392321"
+  },
+  {
+    "emoji": "🐭",
+    "name": "Mouse",
+    "description": "A small and adorable mouse.",
+    "tags": ["mouse", "rodent", "animal"],
+    "_id": "22emjim68859923392322"
+  },
+  {
+    "emoji": "🐰",
+    "name": "Rabbit",
+    "description": "A fluffy and lovable rabbit.",
+    "tags": ["rabbit", "bunny", "animal"],
+    "_id": "23emjim68859923392323"
+  },
+  {
+    "emoji": "🦊",
+    "name": "Fox",
+    "description": "A cunning and clever fox.",
+    "tags": ["fox", "animal", "wildlife"],
+    "_id": "24emjim68859923392324"
+  },
+  {
+    "emoji": "🐻",
+    "name": "Bear",
+    "description": "A big and strong bear.",
+    "tags": ["bear", "animal", "wildlife"],
+    "_id": "25emjim68859923392325"
+  },
+  {
+    "emoji": "🐯",
+    "name": "Tiger",
+    "description": "A majestic and powerful tiger.",
+    "tags": ["tiger", "animal", "wildlife"],
+    "_id": "26emjim68859923392326"
+  },
+  {
+    "emoji": "🦁",
+    "name": "Lion",
+    "description": "A majestic and regal lion.",
+    "tags": ["lion", "animal", "wildlife"],
+    "_id": "27emjim68859923392327"
+  },
+  {
+    "emoji": "🐮",
+    "name": "Cow",
+    "description": "A gentle and peaceful cow.",
+    "tags": ["cow", "animal", "farm"],
+    "_id": "28emjim68859923392328"
+  },
+  {
+    "emoji": "🐷",
+    "name": "Pig",
+    "description": "A cute and chubby pig.",
+    "tags": ["pig", "animal", "farm"],
+    "_id": "29emjim68859923392329"
+  },
+  {
+    "emoji": "🐔",
+    "name": "Chicken",
+    "description": "A cute and feathery chicken.",
+    "tags": ["chicken", "animal", "farm"],
+    "_id": "30emjim68859923392330"
+  },
+  {
+    "emoji": "🐸",
+    "name": "Frog",
+    "description": "A playful and hopping frog.",
+    "tags": ["frog", "animal", "amphibian"],
+    "_id": "31emjim68859923392331"
+  },
+  {
+    "emoji": "🐢",
+    "name": "Turtle",
+    "description": "A slow and steady turtle.",
+    "tags": ["turtle", "animal", "reptile"],
+    "_id": "32emjim68859923392332"
+  },
+  {
+    "emoji": "🐍",
+    "name": "Snake",
+    "description": "A slithering and hissing snake.",
+    "tags": ["snake", "animal", "reptile"],
+    "_id": "33emjim68859923392333"
+  },
+  {
+    "emoji": "🐠",
+    "name": "Tropical Fish",
+    "description": "A colorful and exotic tropical fish.",
+    "tags": ["fish", "animal", "aquatic"],
+    "_id": "34emjim68859923392334"
+  },
+  {
+    "emoji": "🐙",
+    "name": "Octopus",
+    "description": "A smart and multi-limbed octopus.",
+    "tags": ["octopus", "animal", "ocean"],
+    "_id": "35emjim68859923392335"
+  },
+  {
+    "emoji": "🦄",
+    "name": "Unicorn",
+    "description": "A mythical and magical unicorn.",
+    "tags": ["unicorn", "fantasy", "magical"],
+    "_id": "36emjim68859923392336"
+  },
+  {
+    "emoji": "🦋",
+    "name": "Butterfly",
+    "description": "A beautiful and graceful butterfly.",
+    "tags": ["butterfly", "insect", "nature"],
+    "_id": "37emjim68859923392337"
+  },
+  {
+    "emoji": "🐞",
+    "name": "Lady Beetle",
+    "description": "A small and colorful lady beetle.",
+    "tags": ["lady beetle", "insect", "ladybug"],
+    "_id": "38emjim68859923392338"
+  },
+  {
+    "emoji": "🌍",
+    "name": "Globe Showing Europe-Africa",
+    "description": "A globe showing Europe and Africa continents.",
+    "tags": ["globe", "world", "geography"],
+    "_id": "39emjim68859923392339"
+  },
+  {
+    "emoji": "🌏",
+    "name": "Globe Showing Asia-Australia",
+    "description": "A globe showing Asia and Australia continents.",
+    "tags": ["globe", "world", "geography"],
+    "_id": "40emjim68859923392340"
+  },
+  {
+    "emoji": "🌎",
+    "name": "Globe Showing Americas",
+    "description": "A globe showing the Americas continents.",
+    "tags": ["globe", "world", "geography"],
+    "_id": "41emjim68859923392341"
+  },
+  {
+    "emoji": "🌐",
+    "name": "Globe with Meridians",
+    "description": "A globe with lines of latitude and longitude.",
+    "tags": ["globe", "world", "geography"],
+    "_id": "42emjim68859923392342"
+  },
+  {
+    "emoji": "🌟",
+    "name": "Star",
+    "description": "A classic five-pointed yellow star.",
+    "tags": ["star", "sparkle", "glitter"],
+    "_id": "43emjim68859923392343"
+  },
+  {
+    "emoji": "⚡",
+    "name": "High Voltage",
+    "description": "A lightning bolt, representing electricity or energy.",
+    "tags": ["lightning", "energy", "power"],
+    "_id": "44emjim68859923392344"
+  },
+  {
+    "emoji": "💥",
+    "name": "Collision",
+    "description": "A symbol of explosion or collision.",
+    "tags": ["collision", "boom", "impact"],
+    "_id": "45emjim68859923392345"
+  },
+  {
+    "emoji": "✨",
+    "name": "Sparkles",
+    "description": "A symbol of sparkles or magic.",
+    "tags": ["sparkles", "magic", "glitter"],
+    "_id": "46emjim68859923392346"
+  },
+  {
+    "emoji": "🔥",
+    "name": "Fire",
+    "description": "A flame of fire.",
+    "tags": ["fire", "hot", "burn"],
+    "_id": "47emjim68859923392347"
+  },
+  {
+    "emoji": "☁️",
+    "name": "Cloud",
+    "description": "A fluffy white cloud.",
+    "tags": ["cloud", "weather"],
+    "_id": "48emjim68859923392348"
+  },
+  {
+    "emoji": "⛅",
+    "name": "Sun Behind Cloud",
+    "description": "A sun partially covered by a cloud.",
+    "tags": ["sun", "cloud", "weather"],
+    "_id": "49emjim68859923392349"
+  },
+  {
+    "emoji": "🌧️",
+    "name": "Cloud with Rain",
+    "description": "A cloud with raindrops falling.",
+    "tags": ["cloud", "rain", "weather"],
+    "_id": "50emjim68859923392350"
+  },
+  {
+    "emoji": "⛈️",
+    "name": "Cloud with Lightning and Rain",
+    "description": "A cloud with lightning and rain.",
+    "tags": ["cloud", "lightning", "rain", "weather"],
+    "_id": "51emjim68859923392351"
+  },
+  {
+    "emoji": "🌩️",
+    "name": "Cloud with Lightning",
+    "description": "A cloud with lightning.",
+    "tags": ["cloud", "lightning", "weather"],
+    "_id": "52emjim68859923392352"
+  },
+  {
+    "emoji": "❄️",
+    "name": "Snowflake",
+    "description": "A unique snowflake symbol.",
+    "tags": ["snowflake", "winter", "weather"],
+    "_id": "53emjim68859923392353"
+  },
+  {
+    "emoji": "☃️",
+    "name": "Snowman",
+    "description": "A classic snowman with a hat and scarf.",
+    "tags": ["snowman", "winter", "weather"],
+    "_id": "54emjim68859923392354"
+  },
+  {
+    "emoji": "⛄",
+    "name": "Snowman without Snow",
+    "description": "A snowman without snow.",
+    "tags": ["snowman", "winter", "weather"],
+    "_id": "55emjim68859923392355"
+  },
+  {
+    "emoji": "💨",
+    "name": "Dashing Away",
+    "description": "A symbol of dashing away or wind.",
+    "tags": ["dashing", "wind", "fast"],
+    "_id": "56emjim68859923392356"
+  },
+  {
+    "emoji": "🌪️",
+    "name": "Tornado",
+    "description": "A swirling tornado.",
+    "tags": ["tornado", "weather", "disaster"],
+    "_id": "57emjim68859923392357"
+  },
+  {
+    "emoji": "💔",
+    "name": "Broken Heart",
+    "description": "A heart symbol that is broken into two pieces.",
+    "tags": ["heart", "broken", "sad"],
+    "_id": "58emjim68859923392358"
+  },
+  {
+    "emoji": "💖",
+    "name": "Sparkling Heart",
+    "description": "A heart with sparkles, representing love and affection.",
+    "tags": ["heart", "love", "sparkles"],
+    "_id": "59emjim68859923392359"
+  },
+  {
+    "emoji": "💗",
+    "name": "Growing Heart",
+    "description": "A heart that is growing in size, representing growing love.",
+    "tags": ["heart", "love", "growth"],
+    "_id": "60emjim68859923392360"
+  },
+  {
+    "emoji": "💘",
+    "name": "Heart with Arrow",
+    "description": "A heart symbol pierced by an arrow, representing love.",
+    "tags": ["heart", "love", "arrow"],
+    "_id": "61emjim68859923392361"
+  },
+  {
+    "emoji": "💝",
+    "name": "Heart with Ribbon",
+    "description": "A heart with a decorative ribbon, representing gift or present.",
+    "tags": ["heart", "love", "gift"],
+    "_id": "62emjim68859923392362"
+  },
+  {
+    "emoji": "💞",
+    "name": "Revolving Hearts",
+    "description": "Two hearts that are revolving around each other, representing love.",
+    "tags": ["heart", "love", "revolving"],
+    "_id": "63emjim68859923392363"
+  },
+  {
+    "emoji": "💟",
+    "name": "Heart Decoration",
+    "description": "A decorative heart symbol.",
+    "tags": ["heart", "love", "decoration"],
+    "_id": "64emjim68859923392364"
+  },
+  {
+    "emoji": "🖤",
+    "name": "Black Heart",
+    "description": "A black heart symbol.",
+    "tags": ["heart", "black", "dark"],
+    "_id": "65emjim68859923392365"
+  },
+  {
+    "emoji": "💛",
+    "name": "Yellow Heart",
+    "description": "A yellow heart symbol.",
+    "tags": ["heart", "yellow", "love"],
+    "_id": "66emjim68859923392366"
+  },
+  {
+    "emoji": "💚",
+    "name": "Green Heart",
+    "description": "A green heart symbol.",
+    "tags": ["heart", "green", "love"],
+    "_id": "67emjim68859923392367"
+  },
+  {
+    "emoji": "❤️",
     "name": "Red Heart",
-    "meaning": "A classic red love heart emoji, used for expressions of love and romance. This is the most popular heart emoji A similar emoji exists for the heart suit in a deck of playing cards."
+    "description": "A classic red heart symbol.",
+    "tags": ["heart", "love", "red"],
+    "_id": "68emjim68859923392368"
+  },
+  {
+    "emoji": "💙",
+    "name": "Blue Heart",
+    "description": "A blue heart symbol.",
+    "tags": ["heart", "blue", "love"],
+    "_id": "69emjim68859923392369"
+  },
+  {
+    "emoji": "❣️",
+    "name": "Heart Exclamation",
+    "description": "A heart symbol with an exclamation mark, representing excitement or strong emotion.",
+    "tags": ["heart", "exclamation", "emotion"],
+    "_id": "70emjim68859923392370"
+  },
+  {
+    "emoji": "💓",
+    "name": "Beating Heart",
+    "description": "A pink heart with lines indicating a heartbeat, representing love or affection.",
+    "tags": ["heart", "love", "heartbeat"],
+    "_id": "71emjim68859923392371"
+  },
+  {
+    "emoji": "💕",
+    "name": "Two Hearts",
+    "description": "Two pink hearts side by side, representing love or affection.",
+    "tags": ["hearts", "love", "affection"],
+    "_id": "72emjim68859923392372"
+  },
+  {
+    "emoji": "👋",
+    "name": "Waving Hand",
+    "description": "A hand waving in a friendly manner.",
+    "tags": ["hand", "wave", "greeting"],
+    "_id": "73emjim68859923392373"
+  },
+  {
+    "emoji": "✋",
+    "name": "Raised Hand",
+    "description": "A hand raised with fingers spread apart.",
+    "tags": ["hand", "raise", "stop"],
+    "_id": "74emjim68859923392374"
+  },
+  {
+    "emoji": "🤚",
+    "name": "Raised Back of Hand",
+    "description": "The back of a hand raised with fingers extended.",
+    "tags": ["hand", "raise", "stop"],
+    "_id": "75emjim68859923392375"
+  },
+  {
+    "emoji": "🖐️",
+    "name": "Hand with Fingers Splayed",
+    "description": "A hand with fingers splayed apart.",
+    "tags": ["hand", "fingers", "splayed"],
+    "_id": "76emjim68859923392376"
+  },
+  {
+    "emoji": "✍️",
+    "name": "Writing Hand",
+    "description": "A hand holding a pen or pencil, representing writing.",
+    "tags": ["hand", "writing", "pen"],
+    "_id": "77emjim68859923392377"
+  },
+  {
+    "emoji": "🤝",
+    "name": "Handshake",
+    "description": "Two hands clasped together in a handshake gesture.",
+    "tags": ["hand", "shake", "agreement"],
+    "_id": "78emjim68859923392378"
+  },
+  {
+    "emoji": "🙏",
+    "name": "Folded Hands",
+    "description": "Two hands placed together in a praying gesture.",
+    "tags": ["hands", "prayer", "thankfulness"],
+    "_id": "79emjim68859923392479"
+  },
+  {
+    "emoji": "🤲",
+    "name": "Palms Up Together",
+    "description": "Two hands placed together with palms facing up.",
+    "tags": ["hands", "palms", "together"],
+    "_id": "80emjim68859923392480"
+  },
+  {
+    "emoji": "👐",
+    "name": "Open Hands",
+    "description": "Two open hands facing forward.",
+    "tags": ["hands", "open", "gesture"],
+    "_id": "81emjim68859923392481"
+  },
+  {
+    "emoji": "🤞",
+    "name": "Crossed Fingers",
+    "description": "A hand with crossed index and middle fingers.",
+    "tags": ["hand", "fingers", "luck"],
+    "_id": "82emjim68859923392482"
+  },
+  {
+    "emoji": "🤙",
+    "name": "Call Me Hand",
+    "description": "A hand with the thumb and pinky finger extended, forming a phone-like gesture.",
+    "tags": ["hand", "call me", "phone"],
+    "_id": "83emjim68859923392483"
+  },
+  {
+    "emoji": "🖖",
+    "name": "Vulcan Salute",
+    "description": "A hand with the index and middle fingers extended and separated, forming a V-shaped salute.",
+    "tags": ["hand", "salute", "Vulcan"],
+    "_id": "84emjim68859923392484"
+  },
+  {
+    "emoji": "👌",
+    "name": "OK Hand",
+    "description": "A hand with the thumb and index finger touching, forming an OK gesture.",
+    "tags": ["hand", "OK", "approval"],
+    "_id": "85emjim68859923392485"
+  },
+  {
+    "emoji": "🤏",
+    "name": "Pinching Hand",
+    "description": "A hand with thumb and index finger close together, indicating a small amount or pinching gesture.",
+    "tags": ["hand", "pinch", "small"],
+    "_id": "86emjim68859923392486"
+  },
+  {
+    "emoji": "✌️",
+    "name": "Victory Hand",
+    "description": "A hand with the index and middle fingers in a V shape, representing victory or peace.",
+    "tags": ["hand", "victory", "peace"],
+    "_id": "87emjim68859923392487"
+  },
+  {
+    "emoji": "🤟",
+    "name": "Love-You Gesture",
+    "description": "A hand with the index finger and pinky finger extended, forming a love-you gesture.",
+    "tags": ["hand", "love you", "rock on"],
+    "_id": "88emjim68859923392488"
+  },
+  {
+    "emoji": "👍",
+    "name": "Thumbs Up",
+    "description": "A hand with the thumb extended upward, indicating approval or agreement.",
+    "tags": ["hand", "thumbs up", "approval"],
+    "_id": "89emjim68859923392489"
+  },
+  {
+    "emoji": "👎",
+    "name": "Thumbs Down",
+    "description": "A hand with the thumb extended downward, indicating disapproval or disagreement.",
+    "tags": ["hand", "thumbs down", "disapproval"],
+    "_id": "90emjim68859923392490"
+  },
+  {
+    "emoji": "🙌",
+    "name": "Raising Hands",
+    "description": "Two hands raised in celebration or excitement.",
+    "tags": ["hands", "celebration", "excitement"],
+    "_id": "91emjim68859923392491"
+  },
+  {
+    "emoji": "👐",
+    "name": "Open Hands",
+    "description": "Two open hands facing forward.",
+    "tags": ["hands", "open", "gesture"],
+    "_id": "92emjim68859923392492"
+  },
+  {
+    "emoji": "🤲",
+    "name": "Palms Up Together",
+    "description": "Two hands placed together with palms facing up.",
+    "tags": ["hands", "palms", "together"],
+    "_id": "93emjim68859923392493"
+  },
+  {
+    "emoji": "🤝",
+    "name": "Handshake",
+    "description": "Two hands clasped together in a handshake gesture.",
+    "tags": ["hand", "shake", "agreement"],
+    "_id": "94emjim68859923392494"
+  },
+  {
+    "emoji": "🙏",
+    "name": "Folded Hands",
+    "description": "Two hands placed together in a praying gesture.",
+    "tags": ["hands", "prayer", "thankfulness"],
+    "_id": "95emjim68859923392495"
+  },
+  {
+    "emoji": "👏",
+    "name": "Clapping Hands",
+    "description": "Two hands clapping together.",
+    "tags": ["hands", "clap", "applause"],
+    "_id": "96emjim68859923392496"
+  },
+  {
+    "emoji": "🤞",
+    "name": "Crossed Fingers",
+    "description": "A hand with crossed index and middle fingers.",
+    "tags": ["hand", "fingers", "luck"],
+    "_id": "97emjim68859923392497"
+  },
+  {
+    "emoji": "🤘",
+    "name": "Sign of the Horns",
+    "description": "A hand with the index and pinky fingers extended, forming a rock-on gesture.",
+    "tags": ["hand", "rock on", "gesture"],
+    "_id": "98emjim68859923392498"
+  },
+  {
+    "emoji": "🖐️",
+    "name": "Hand with Fingers Splayed",
+    "description": "A hand with fingers splayed apart.",
+    "tags": ["hand", "fingers", "splayed"],
+    "_id": "99emjim68859923392499"
+  },
+  {
+    "emoji": "✋",
+    "name": "Raised Hand",
+    "description": "A hand raised with fingers spread apart.",
+    "tags": ["hand", "raise", "stop"],
+    "_id": "100emjim688599233924100"
+  },
+  {
+    "emoji": "👊",
+    "name": "Fisted Hand",
+    "description": "A hand with a clenched fist.",
+    "tags": ["hand", "fist", "punch"],
+    "_id": "101emjim688599233924101"
+  },
+  {
+    "emoji": "🤙",
+    "name": "Call Me Hand",
+    "description": "A hand with the thumb and pinky finger extended, forming a phone-like gesture.",
+    "tags": ["hand", "call me", "phone"],
+    "_id": "102emjim688599233924102"
+  },
+  {
+    "emoji": "🇺🇸",
+    "name": "United States Flag",
+    "description": "The flag of the United States of America.",
+    "tags": ["flag", "USA", "United States"],
+    "_id": "103emjim688599233924103"
+  },
+  {
+    "emoji": "🇬🇧",
+    "name": "United Kingdom Flag",
+    "description": "The flag of the United Kingdom.",
+    "tags": ["flag", "UK", "United Kingdom"],
+    "_id": "104emjim688599233924104"
+  },
+  {
+    "emoji": "🇨🇦",
+    "name": "Canada Flag",
+    "description": "The flag of Canada.",
+    "tags": ["flag", "Canada"],
+    "_id": "105emjim688599233924105"
+  },
+  {
+    "emoji": "🇦🇺",
+    "name": "Australia Flag",
+    "description": "The flag of Australia.",
+    "tags": ["flag", "Australia"],
+    "_id": "106emjim688599233924106"
+  },
+  {
+    "emoji": "🇩🇪",
+    "name": "Germany Flag",
+    "description": "The flag of Germany.",
+    "tags": ["flag", "Germany"],
+    "_id": "107emjim688599233924107"
+  },
+  {
+    "emoji": "🇫🇷",
+    "name": "France Flag",
+    "description": "The flag of France.",
+    "tags": ["flag", "France"],
+    "_id": "108emjim688599233924108"
+  },
+  {
+    "emoji": "🇮🇹",
+    "name": "Italy Flag",
+    "description": "The flag of Italy.",
+    "tags": ["flag", "Italy"],
+    "_id": "109emjim688599233924109"
+  },
+  {
+    "emoji": "🇪🇸",
+    "name": "Spain Flag",
+    "description": "The flag of Spain.",
+    "tags": ["flag", "Spain"],
+    "_id": "110emjim688599233924110"
+  },
+  {
+    "emoji": "🇯🇵",
+    "name": "Japan Flag",
+    "description": "The flag of Japan.",
+    "tags": ["flag", "Japan"],
+    "_id": "111emjim688599233924111"
+  },
+  {
+    "emoji": "🇧🇷",
+    "name": "Brazil Flag",
+    "description": "The flag of Brazil.",
+    "tags": ["flag", "Brazil"],
+    "_id": "112emjim688599233924112"
+  },
+  {
+    "emoji": "🇮🇹",
+    "name": "Italy Flag",
+    "description": "The flag of Italy.",
+    "tags": ["flag", "Italy"],
+    "_id": "113emjim688599233924113"
+  },
+  {
+    "emoji": "🇪🇸",
+    "name": "Spain Flag",
+    "description": "The flag of Spain.",
+    "tags": ["flag", "Spain"],
+    "_id": "114emjim688599233924114"
+  },
+  {
+    "emoji": "🇯🇵",
+    "name": "Japan Flag",
+    "description": "The flag of Japan.",
+    "tags": ["flag", "Japan"],
+    "_id": "115emjim688599233924115"
+  },
+  {
+    "emoji": "🇳🇬",
+    "name": "Nigeria Flag",
+    "description": "The flag of Nigeria.",
+    "tags": ["flag", "Nigeria"],
+    "_id": "116emjim688599233924116"
+  },
+  {
+    "emoji": "😔",
+    "name": "Pensive Face",
+    "description": "A face with a slightly saddened expression and downcast eyes.",
+    "tags": ["face", "sad", "pensive"],
+    "_id": "117emjim688599233924117"
+  },
+  {
+    "emoji": "😢",
+    "name": "Crying Face",
+    "description": "A face with a single tear rolling down its cheek.",
+    "tags": ["face", "sad", "cry"],
+    "_id": "118emjim688599233924118"
+  },
+  {
+    "emoji": "😭",
+    "name": "Loudly Crying Face",
+    "description": "A face with streaming tears and a closed mouth wailing.",
+    "tags": ["face", "sad", "cry", "tears"],
+    "_id": "119emjim688599233924119"
+  },
+  {
+    "emoji": "😞",
+    "name": "Disappointed Face",
+    "description": "A face with a saddened and disappointed expression.",
+    "tags": ["face", "sad", "disappointed"],
+    "_id": "120emjim688599233924120"
+  },
+  {
+    "emoji": "😟",
+    "name": "Worried Face",
+    "description": "A face with a concerned and anxious expression.",
+    "tags": ["face", "worried", "concerned"],
+    "_id": "121emjim688599233924121"
+  },
+  {
+    "emoji": "😕",
+    "name": "Confused Face",
+    "description": "A face with a perplexed and confused expression.",
+    "tags": ["face", "confused", "perplexed"],
+    "_id": "122emjim688599233924122"
+  },
+  {
+    "emoji": "🙁",
+    "name": "Slightly Frowning Face",
+    "description": "A face with a slightly frowning mouth and neutral eyes.",
+    "tags": ["face", "sad", "frown"],
+    "_id": "123emjim688599233924123"
+  },
+  {
+    "emoji": "☹️",
+    "name": "Frowning Face",
+    "description": "A face with a frowning mouth and downturned eyes.",
+    "tags": ["face", "sad", "frown"],
+    "_id": "124emjim688599233924124"
+  },
+  {
+    "emoji": "😣",
+    "name": "Persevering Face",
+    "description": "A face with a grimacing expression, indicating struggle or frustration.",
+    "tags": ["face", "sad", "persevering"],
+    "_id": "125emjim688599233924125"
+  },
+  {
+    "emoji": "😔",
+    "name": "Pensive Face",
+    "description": "A face with a slightly saddened expression and downcast eyes.",
+    "tags": ["face", "sad", "pensive"],
+    "_id": "126emjim688599233924126"
+  },
+  {
+    "emoji": "😞",
+    "name": "Disappointed Face",
+    "description": "A face with a saddened and disappointed expression.",
+    "tags": ["face", "sad", "disappointed"],
+    "_id": "127emjim688599233924127"
+  },
+  {
+    "emoji": "😟",
+    "name": "Worried Face",
+    "description": "A face with a concerned and anxious expression.",
+    "tags": ["face", "worried", "concerned"],
+    "_id": "128emjim688599233924128"
+  },
+  {
+    "emoji": "😕",
+    "name": "Confused Face",
+    "description": "A face with a perplexed and confused expression.",
+    "tags": ["face", "confused", "perplexed"],
+    "_id": "129emjim688599233924129"
+  },
+  {
+    "emoji": "🙁",
+    "name": "Slightly Frowning Face",
+    "description": "A face with a slightly frowning mouth and neutral eyes.",
+    "tags": ["face", "sad", "frown"],
+    "_id": "130emjim688599233924130"
+  },
+  {
+    "emoji": "☹️",
+    "name": "Frowning Face",
+    "description": "A face with a frowning mouth and downturned eyes.",
+    "tags": ["face", "sad", "frown"],
+    "_id": "131emjim688599233924131"
+  },
+  {
+    "emoji": "😣",
+    "name": "Persevering Face",
+    "description": "A face with a grimacing expression, indicating struggle or frustration.",
+    "tags": ["face", "sad", "persevering"],
+    "_id": "132emjim688599233924132"
+  },
+  {
+    "emoji": "😖",
+    "name": "Confounded Face",
+    "description": "A face with a mix of frustration, exhaustion, and disappointment.",
+    "tags": ["face", "sad", "confounded"],
+    "_id": "133emjim688599233924133"
+  },
+  {
+    "emoji": "😩",
+    "name": "Weary Face",
+    "description": "A face with tired eyes and a slightly frowning mouth.",
+    "tags": ["face", "sad", "weary"],
+    "_id": "134emjim688599233924134"
+  },
+  {
+    "emoji": "😫",
+    "name": "Tired Face",
+    "description": "A face with closed eyes and an open mouth, indicating exhaustion.",
+    "tags": ["face", "sad", "tired"],
+    "_id": "135emjim688599233924135"
+  },
+  {
+    "emoji": "😢",
+    "name": "Crying Face",
+    "description": "A face with a single tear rolling down its cheek.",
+    "tags": ["face", "sad", "cry"],
+    "_id": "136emjim688599233924136"
   }
 ]
