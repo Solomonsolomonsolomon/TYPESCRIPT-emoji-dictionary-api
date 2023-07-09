@@ -3,30 +3,30 @@ import testRoute from "./routes/root.route";
 import randomRoute from "./routes/random.routes";
 import emojiRoute from "./routes/emojis.routes";
 import searchRoute from "./routes/search.routes";
-const limiter = require("express-rate-limit");
+import keysRoute from "./routes/keys.routes";
+import { addApiKey } from "./controller/key.controller";
+import {
+  apiKeyRequestLimit,
+  apiRateLimiter,
+} from "./middleware/ratelimit.middleware";
 const port: string | number = process.env.PORT || 3000;
 const app: Application = express();
 app.use(express.json());
-let limit = limiter({
-  max: 3,
-  message:
-    "you have exceeded the maximum of 50 api calls in 5 minutes.please wait and try again later",
-  windowMs: 1000 * 60 * 5,
-  standardHeaders: true,
-  legacyHeaders: false,
-});
+import { getHostName, verifyKey } from "./controller/key.controller";
 app.set("trust proxy", 1);
 app.use(express.urlencoded({ extended: false }));
-app.get("/hello", (req: Request, res: Response): any => {
-  res.send("hello there");
+app.get("/h", getHostName);
+app.use(testRoute);
+app.use(keysRoute);
+app.use(verifyKey); //VERIFYING API KEY
+//app.use(apiRateLimiter(50))
+app.use("/emoji", apiRateLimiter(5), emojiRoute);
+app.use(apiRateLimiter(5), randomRoute);
+app.use(apiRateLimiter(5), searchRoute);
+
+app.use((req, res, next) => {
+  res.json("wrong route hittttt");
 });
-app.use("/", testRoute);
-app.use(limit);
-
-app.use("/emoji", emojiRoute);
-app.use("/", randomRoute);
-app.use("/", searchRoute);
-
 app.listen(port, () => {
   console.log(`listening on port ${port}`);
 });
