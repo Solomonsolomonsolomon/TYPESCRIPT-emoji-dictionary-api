@@ -1,4 +1,5 @@
 import express, { Application, Request, Response, Router } from "express";
+import cors, { CorsOptions, CorsRequest } from "cors";
 import testRoute from "./routes/root.route";
 import randomRoute from "./routes/random.routes";
 import emojiRoute from "./routes/emojis.routes";
@@ -13,6 +14,7 @@ const port: string | number = process.env.PORT || 3000;
 const app: Application = express();
 app.use(express.json());
 import { getHostName, verifyKey } from "./controller/key.controller";
+app.use(cors());
 app.set("trust proxy", 1);
 app.use(express.urlencoded({ extended: false }));
 app.get("/h", getHostName);
