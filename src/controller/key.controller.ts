@@ -78,25 +78,32 @@ export function getHostName(req: Request, res: Response) {
 }
 
 //
-export function addApiKey(req: Request, res: Response) {
+export async function addApiKey(req: Request, res: Response) {
   try {
-    let {prod}=req.params;
-    console.log(prod)
-    let theOldKeys = JSON.parse(oldkeys);
-    let apikey = generateApiKey();
-    let json = [
-      ...theOldKeys,
-      {
-        host: req.protocol,
-        key: apikey,
-      },
-    ];
-    let data = fs.writeFileSync(
+    // let { prod } = req.params;
+    // console.log(prod);
+    fs.readFile(
       path.join(__dirname, "..", "model", "activeApiKeys.json"),
-      JSON.stringify(json),
-      { encoding: "utf-8" }
+      { encoding: "utf8" },
+      (err, oldKeys) => {
+        if (err) throw err;
+        let theOldKeys = JSON.parse(oldKeys);
+        let apikey = generateApiKey();
+        let json = [
+          ...theOldKeys,
+          {
+            host: req.hostname,
+            key: apikey,
+          },
+        ];
+        fs.writeFileSync(
+          path.join(__dirname, "..", "model", "activeApiKeys.json"),
+          JSON.stringify(json),
+          { encoding: "utf8" }
+        );
+        res.status(201).json({ key: apikey });
+      }
     );
-    res.status(200).json({ key: apikey });
   } catch (err: any) {
     res.status(500).json({ err: err.message });
   }

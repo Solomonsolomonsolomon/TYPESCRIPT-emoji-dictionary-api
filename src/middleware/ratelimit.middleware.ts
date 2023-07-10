@@ -6,7 +6,7 @@ export function apiRateLimiter(max: number) {
     message:
       "you have exceeded the maximum of " +
       max +
-      " api calls in x minutes.please wait and try again later",
+      " api calls per route in 5 minutes.please wait and try again later or visit another route",
     windowMs: 1000 * 60 * 5,
     standardHeaders: true,
     legacyHeaders: false,
@@ -14,7 +14,6 @@ export function apiRateLimiter(max: number) {
 }
 
 export function apiKeyRequestLimit() {
-  console.log("ahhh", "working");
   return limiter({
     max: 1,
     message: "you can request for an api key only once in 30m",
