@@ -5,7 +5,7 @@ import {
   generateApiKey,
   getHostName,
   verifyKey,
-} from "../controller/key.controller";
-import { apiKeyRequestLimit } from "./../middleware/ratelimit.middleware";
+} from "../controller/key.controller.ts";
+import { apiKeyRequestLimit } from "./../middleware/ratelimit.middleware.ts";
 router.get("/getapikey", apiKeyRequestLimit(), addApiKey);
 export default router;

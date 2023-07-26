@@ -721,7 +721,7 @@
     "_id": "102emjim688599233924102"
   },
   {
-    "emoji": "🇺🇸",
+    "emoji": "f🇺🇸",
     "name": "United States Flag",
     "description": "The flag of the United States of America.",
     "tags": ["flag", "USA", "United States"],
@@ -733,7 +733,7 @@
     "description": "The flag of the United Kingdom.",
     "tags": ["flag", "UK", "United Kingdom"],
     "_id": "104emjim688599233924104"
-  },
+  }, 
   {
     "emoji": "🇨🇦",
     "name": "Canada Flag",
