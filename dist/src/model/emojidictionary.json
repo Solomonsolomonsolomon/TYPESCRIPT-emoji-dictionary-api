@@ -1,0 +1,961 @@
+[
+    {
+        "emoji": "😀",
+        "name": "Grinning Face",
+        "description": "A classic smiley face with a big grin.",
+        "tags": ["face", "smile", "happy"],
+        "_id": "0emjim6885992339220"
+    },
+    {
+        "emoji": "😃",
+        "name": "Grinning Face with Big Eyes",
+        "description": "A smiling face with open eyes and a big grin.",
+        "tags": ["face", "smile", "happy", "eyes"],
+        "_id": "1emjim6885992339231"
+    },
+    {
+        "emoji": "😄",
+        "name": "Grinning Face with Smiling Eyes",
+        "description": "A smiling face with smiling eyes.",
+        "tags": ["face", "smile", "happy", "eyes"],
+        "_id": "2emjim6885992339232"
+    },
+    {
+        "emoji": "😊",
+        "name": "Smiling Face with Smiling Eyes",
+        "description": "A face with a beaming smile and smiling eyes.",
+        "tags": ["face", "smile", "happy", "eyes"],
+        "_id": "3emjim6885992339233"
+    },
+    {
+        "emoji": "😍",
+        "name": "Smiling Face with Heart-Eyes",
+        "description": "A face with hearts for eyes, expressing love or adoration.",
+        "tags": ["face", "smile", "love", "heart"],
+        "_id": "4emjim6885992339234"
+    },
+    {
+        "emoji": "🤩",
+        "name": "Star-Struck",
+        "description": "A face with starry eyes, indicating being starstruck or impressed.",
+        "tags": ["face", "smile", "star", "impressed"],
+        "_id": "5emjim6885992339235"
+    },
+    {
+        "emoji": "😎",
+        "name": "Smiling Face with Sunglasses",
+        "description": "A face with sunglasses, representing coolness or a carefree attitude.",
+        "tags": ["face", "smile", "sunglasses", "cool"],
+        "_id": "6emjim6885992339236"
+    },
+    {
+        "emoji": "🥳",
+        "name": "Party Popper",
+        "description": "A colorful party popper, used to celebrate joyous occasions.",
+        "tags": ["party", "celebration", "fun"],
+        "_id": "7emjim6885992339237"
+    },
+    {
+        "emoji": "🌺",
+        "name": "Hibiscus",
+        "description": "A bright and colorful hibiscus flower.",
+        "tags": ["flower", "nature", "hibiscus"],
+        "_id": "8emjim6885992339238"
+    },
+    {
+        "emoji": "🌈",
+        "name": "Rainbow",
+        "description": "A beautiful rainbow with various colors.",
+        "tags": ["rainbow", "colorful", "weather"],
+        "_id": "9emjim6885992339239"
+    },
+    {
+        "emoji": "🌞",
+        "name": "Sun",
+        "description": "A bright and shining sun.",
+        "tags": ["sun", "weather", "summer"],
+        "_id": "10emjim68859923392310"
+    },
+    {
+        "emoji": "🌙",
+        "name": "Crescent Moon",
+        "description": "A crescent moon, representing nighttime or sleep.",
+        "tags": ["moon", "night", "sleep"],
+        "_id": "11emjim68859923392311"
+    },
+    {
+        "emoji": "⭐",
+        "name": "Star",
+        "description": "A classic five-pointed star.",
+        "tags": ["star", "favorite", "highlight"],
+        "_id": "12emjim68859923392312"
+    },
+    {
+        "emoji": "🍀",
+        "name": "Four Leaf Clover",
+        "description": "A four-leaf clover, believed to bring good luck.",
+        "tags": ["clover", "luck", "green"],
+        "_id": "13emjim68859923392313"
+    },
+    {
+        "emoji": "🌸",
+        "name": "Cherry Blossom",
+        "description": "A pink flower blossom, usually depicted as a cherry blossom.",
+        "tags": ["flower", "nature", "cherry blossom"],
+        "_id": "14emjim68859923392314"
+    },
+    {
+        "emoji": "🌼",
+        "name": "Blossom",
+        "description": "A yellow flower blossom, representing beauty and nature.",
+        "tags": ["flower", "nature", "blossom"],
+        "_id": "15emjim68859923392315"
+    },
+    {
+        "emoji": "🌳",
+        "name": "Deciduous Tree",
+        "description": "A green deciduous tree, often representing nature and the environment.",
+        "tags": ["tree", "nature", "green"],
+        "_id": "16emjim68859923392316"
+    },
+    {
+        "emoji": "🌵",
+        "name": "Cactus",
+        "description": "A desert cactus, known for its resilience in arid conditions.",
+        "tags": ["cactus", "desert", "plant"],
+        "_id": "17emjim68859923392317"
+    },
+    {
+        "emoji": "🍁",
+        "name": "Maple Leaf",
+        "description": "A vibrant red maple leaf, representing autumn and Canada.",
+        "tags": ["leaf", "autumn", "fall"],
+        "_id": "18emjim68859923392318"
+    },
+    {
+        "emoji": "🍓",
+        "name": "Strawberry",
+        "description": "A juicy red strawberry, often associated with summer and sweetness.",
+        "tags": ["fruit", "strawberry", "sweet"],
+        "_id": "19emjim68859923392319"
+    },
+    {
+        "emoji": "🐶",
+        "name": "Dog",
+        "description": "A friendly and loyal dog.",
+        "tags": ["dog", "pet", "animal"],
+        "_id": "20emjim68859923392320"
+    },
+    {
+        "emoji": "🐱",
+        "name": "Cat",
+        "description": "A cute and playful cat.",
+        "tags": ["cat", "pet", "animal"],
+        "_id": "21emjim68859923392321"
+    },
+    {
+        "emoji": "🐭",
+        "name": "Mouse",
+        "description": "A small and adorable mouse.",
+        "tags": ["mouse", "rodent", "animal"],
+        "_id": "22emjim68859923392322"
+    },
+    {
+        "emoji": "🐰",
+        "name": "Rabbit",
+        "description": "A fluffy and lovable rabbit.",
+        "tags": ["rabbit", "bunny", "animal"],
+        "_id": "23emjim68859923392323"
+    },
+    {
+        "emoji": "🦊",
+        "name": "Fox",
+        "description": "A cunning and clever fox.",
+        "tags": ["fox", "animal", "wildlife"],
+        "_id": "24emjim68859923392324"
+    },
+    {
+        "emoji": "🐻",
+        "name": "Bear",
+        "description": "A big and strong bear.",
+        "tags": ["bear", "animal", "wildlife"],
+        "_id": "25emjim68859923392325"
+    },
+    {
+        "emoji": "🐯",
+        "name": "Tiger",
+        "description": "A majestic and powerful tiger.",
+        "tags": ["tiger", "animal", "wildlife"],
+        "_id": "26emjim68859923392326"
+    },
+    {
+        "emoji": "🦁",
+        "name": "Lion",
+        "description": "A majestic and regal lion.",
+        "tags": ["lion", "animal", "wildlife"],
+        "_id": "27emjim68859923392327"
+    },
+    {
+        "emoji": "🐮",
+        "name": "Cow",
+        "description": "A gentle and peaceful cow.",
+        "tags": ["cow", "animal", "farm"],
+        "_id": "28emjim68859923392328"
+    },
+    {
+        "emoji": "🐷",
+        "name": "Pig",
+        "description": "A cute and chubby pig.",
+        "tags": ["pig", "animal", "farm"],
+        "_id": "29emjim68859923392329"
+    },
+    {
+        "emoji": "🐔",
+        "name": "Chicken",
+        "description": "A cute and feathery chicken.",
+        "tags": ["chicken", "animal", "farm"],
+        "_id": "30emjim68859923392330"
+    },
+    {
+        "emoji": "🐸",
+        "name": "Frog",
+        "description": "A playful and hopping frog.",
+        "tags": ["frog", "animal", "amphibian"],
+        "_id": "31emjim68859923392331"
+    },
+    {
+        "emoji": "🐢",
+        "name": "Turtle",
+        "description": "A slow and steady turtle.",
+        "tags": ["turtle", "animal", "reptile"],
+        "_id": "32emjim68859923392332"
+    },
+    {
+        "emoji": "🐍",
+        "name": "Snake",
+        "description": "A slithering and hissing snake.",
+        "tags": ["snake", "animal", "reptile"],
+        "_id": "33emjim68859923392333"
+    },
+    {
+        "emoji": "🐠",
+        "name": "Tropical Fish",
+        "description": "A colorful and exotic tropical fish.",
+        "tags": ["fish", "animal", "aquatic"],
+        "_id": "34emjim68859923392334"
+    },
+    {
+        "emoji": "🐙",
+        "name": "Octopus",
+        "description": "A smart and multi-limbed octopus.",
+        "tags": ["octopus", "animal", "ocean"],
+        "_id": "35emjim68859923392335"
+    },
+    {
+        "emoji": "🦄",
+        "name": "Unicorn",
+        "description": "A mythical and magical unicorn.",
+        "tags": ["unicorn", "fantasy", "magical"],
+        "_id": "36emjim68859923392336"
+    },
+    {
+        "emoji": "🦋",
+        "name": "Butterfly",
+        "description": "A beautiful and graceful butterfly.",
+        "tags": ["butterfly", "insect", "nature"],
+        "_id": "37emjim68859923392337"
+    },
+    {
+        "emoji": "🐞",
+        "name": "Lady Beetle",
+        "description": "A small and colorful lady beetle.",
+        "tags": ["lady beetle", "insect", "ladybug"],
+        "_id": "38emjim68859923392338"
+    },
+    {
+        "emoji": "🌍",
+        "name": "Globe Showing Europe-Africa",
+        "description": "A globe showing Europe and Africa continents.",
+        "tags": ["globe", "world", "geography"],
+        "_id": "39emjim68859923392339"
+    },
+    {
+        "emoji": "🌏",
+        "name": "Globe Showing Asia-Australia",
+        "description": "A globe showing Asia and Australia continents.",
+        "tags": ["globe", "world", "geography"],
+        "_id": "40emjim68859923392340"
+    },
+    {
+        "emoji": "🌎",
+        "name": "Globe Showing Americas",
+        "description": "A globe showing the Americas continents.",
+        "tags": ["globe", "world", "geography"],
+        "_id": "41emjim68859923392341"
+    },
+    {
+        "emoji": "🌐",
+        "name": "Globe with Meridians",
+        "description": "A globe with lines of latitude and longitude.",
+        "tags": ["globe", "world", "geography"],
+        "_id": "42emjim68859923392342"
+    },
+    {
+        "emoji": "🌟",
+        "name": "Star",
+        "description": "A classic five-pointed yellow star.",
+        "tags": ["star", "sparkle", "glitter"],
+        "_id": "43emjim68859923392343"
+    },
+    {
+        "emoji": "⚡",
+        "name": "High Voltage",
+        "description": "A lightning bolt, representing electricity or energy.",
+        "tags": ["lightning", "energy", "power"],
+        "_id": "44emjim68859923392344"
+    },
+    {
+        "emoji": "💥",
+        "name": "Collision",
+        "description": "A symbol of explosion or collision.",
+        "tags": ["collision", "boom", "impact"],
+        "_id": "45emjim68859923392345"
+    },
+    {
+        "emoji": "✨",
+        "name": "Sparkles",
+        "description": "A symbol of sparkles or magic.",
+        "tags": ["sparkles", "magic", "glitter"],
+        "_id": "46emjim68859923392346"
+    },
+    {
+        "emoji": "🔥",
+        "name": "Fire",
+        "description": "A flame of fire.",
+        "tags": ["fire", "hot", "burn"],
+        "_id": "47emjim68859923392347"
+    },
+    {
+        "emoji": "☁️",
+        "name": "Cloud",
+        "description": "A fluffy white cloud.",
+        "tags": ["cloud", "weather"],
+        "_id": "48emjim68859923392348"
+    },
+    {
+        "emoji": "⛅",
+        "name": "Sun Behind Cloud",
+        "description": "A sun partially covered by a cloud.",
+        "tags": ["sun", "cloud", "weather"],
+        "_id": "49emjim68859923392349"
+    },
+    {
+        "emoji": "🌧️",
+        "name": "Cloud with Rain",
+        "description": "A cloud with raindrops falling.",
+        "tags": ["cloud", "rain", "weather"],
+        "_id": "50emjim68859923392350"
+    },
+    {
+        "emoji": "⛈️",
+        "name": "Cloud with Lightning and Rain",
+        "description": "A cloud with lightning and rain.",
+        "tags": ["cloud", "lightning", "rain", "weather"],
+        "_id": "51emjim68859923392351"
+    },
+    {
+        "emoji": "🌩️",
+        "name": "Cloud with Lightning",
+        "description": "A cloud with lightning.",
+        "tags": ["cloud", "lightning", "weather"],
+        "_id": "52emjim68859923392352"
+    },
+    {
+        "emoji": "❄️",
+        "name": "Snowflake",
+        "description": "A unique snowflake symbol.",
+        "tags": ["snowflake", "winter", "weather"],
+        "_id": "53emjim68859923392353"
+    },
+    {
+        "emoji": "☃️",
+        "name": "Snowman",
+        "description": "A classic snowman with a hat and scarf.",
+        "tags": ["snowman", "winter", "weather"],
+        "_id": "54emjim68859923392354"
+    },
+    {
+        "emoji": "⛄",
+        "name": "Snowman without Snow",
+        "description": "A snowman without snow.",
+        "tags": ["snowman", "winter", "weather"],
+        "_id": "55emjim68859923392355"
+    },
+    {
+        "emoji": "💨",
+        "name": "Dashing Away",
+        "description": "A symbol of dashing away or wind.",
+        "tags": ["dashing", "wind", "fast"],
+        "_id": "56emjim68859923392356"
+    },
+    {
+        "emoji": "🌪️",
+        "name": "Tornado",
+        "description": "A swirling tornado.",
+        "tags": ["tornado", "weather", "disaster"],
+        "_id": "57emjim68859923392357"
+    },
+    {
+        "emoji": "💔",
+        "name": "Broken Heart",
+        "description": "A heart symbol that is broken into two pieces.",
+        "tags": ["heart", "broken", "sad"],
+        "_id": "58emjim68859923392358"
+    },
+    {
+        "emoji": "💖",
+        "name": "Sparkling Heart",
+        "description": "A heart with sparkles, representing love and affection.",
+        "tags": ["heart", "love", "sparkles"],
+        "_id": "59emjim68859923392359"
+    },
+    {
+        "emoji": "💗",
+        "name": "Growing Heart",
+        "description": "A heart that is growing in size, representing growing love.",
+        "tags": ["heart", "love", "growth"],
+        "_id": "60emjim68859923392360"
+    },
+    {
+        "emoji": "💘",
+        "name": "Heart with Arrow",
+        "description": "A heart symbol pierced by an arrow, representing love.",
+        "tags": ["heart", "love", "arrow"],
+        "_id": "61emjim68859923392361"
+    },
+    {
+        "emoji": "💝",
+        "name": "Heart with Ribbon",
+        "description": "A heart with a decorative ribbon, representing gift or present.",
+        "tags": ["heart", "love", "gift"],
+        "_id": "62emjim68859923392362"
+    },
+    {
+        "emoji": "💞",
+        "name": "Revolving Hearts",
+        "description": "Two hearts that are revolving around each other, representing love.",
+        "tags": ["heart", "love", "revolving"],
+        "_id": "63emjim68859923392363"
+    },
+    {
+        "emoji": "💟",
+        "name": "Heart Decoration",
+        "description": "A decorative heart symbol.",
+        "tags": ["heart", "love", "decoration"],
+        "_id": "64emjim68859923392364"
+    },
+    {
+        "emoji": "🖤",
+        "name": "Black Heart",
+        "description": "A black heart symbol.",
+        "tags": ["heart", "black", "dark"],
+        "_id": "65emjim68859923392365"
+    },
+    {
+        "emoji": "💛",
+        "name": "Yellow Heart",
+        "description": "A yellow heart symbol.",
+        "tags": ["heart", "yellow", "love"],
+        "_id": "66emjim68859923392366"
+    },
+    {
+        "emoji": "💚",
+        "name": "Green Heart",
+        "description": "A green heart symbol.",
+        "tags": ["heart", "green", "love"],
+        "_id": "67emjim68859923392367"
+    },
+    {
+        "emoji": "❤️",
+        "name": "Red Heart",
+        "description": "A classic red heart symbol.",
+        "tags": ["heart", "love", "red"],
+        "_id": "68emjim68859923392368"
+    },
+    {
+        "emoji": "💙",
+        "name": "Blue Heart",
+        "description": "A blue heart symbol.",
+        "tags": ["heart", "blue", "love"],
+        "_id": "69emjim68859923392369"
+    },
+    {
+        "emoji": "❣️",
+        "name": "Heart Exclamation",
+        "description": "A heart symbol with an exclamation mark, representing excitement or strong emotion.",
+        "tags": ["heart", "exclamation", "emotion"],
+        "_id": "70emjim68859923392370"
+    },
+    {
+        "emoji": "💓",
+        "name": "Beating Heart",
+        "description": "A pink heart with lines indicating a heartbeat, representing love or affection.",
+        "tags": ["heart", "love", "heartbeat"],
+        "_id": "71emjim68859923392371"
+    },
+    {
+        "emoji": "💕",
+        "name": "Two Hearts",
+        "description": "Two pink hearts side by side, representing love or affection.",
+        "tags": ["hearts", "love", "affection"],
+        "_id": "72emjim68859923392372"
+    },
+    {
+        "emoji": "👋",
+        "name": "Waving Hand",
+        "description": "A hand waving in a friendly manner.",
+        "tags": ["hand", "wave", "greeting"],
+        "_id": "73emjim68859923392373"
+    },
+    {
+        "emoji": "✋",
+        "name": "Raised Hand",
+        "description": "A hand raised with fingers spread apart.",
+        "tags": ["hand", "raise", "stop"],
+        "_id": "74emjim68859923392374"
+    },
+    {
+        "emoji": "🤚",
+        "name": "Raised Back of Hand",
+        "description": "The back of a hand raised with fingers extended.",
+        "tags": ["hand", "raise", "stop"],
+        "_id": "75emjim68859923392375"
+    },
+    {
+        "emoji": "🖐️",
+        "name": "Hand with Fingers Splayed",
+        "description": "A hand with fingers splayed apart.",
+        "tags": ["hand", "fingers", "splayed"],
+        "_id": "76emjim68859923392376"
+    },
+    {
+        "emoji": "✍️",
+        "name": "Writing Hand",
+        "description": "A hand holding a pen or pencil, representing writing.",
+        "tags": ["hand", "writing", "pen"],
+        "_id": "77emjim68859923392377"
+    },
+    {
+        "emoji": "🤝",
+        "name": "Handshake",
+        "description": "Two hands clasped together in a handshake gesture.",
+        "tags": ["hand", "shake", "agreement"],
+        "_id": "78emjim68859923392378"
+    },
+    {
+        "emoji": "🙏",
+        "name": "Folded Hands",
+        "description": "Two hands placed together in a praying gesture.",
+        "tags": ["hands", "prayer", "thankfulness"],
+        "_id": "79emjim68859923392479"
+    },
+    {
+        "emoji": "🤲",
+        "name": "Palms Up Together",
+        "description": "Two hands placed together with palms facing up.",
+        "tags": ["hands", "palms", "together"],
+        "_id": "80emjim68859923392480"
+    },
+    {
+        "emoji": "👐",
+        "name": "Open Hands",
+        "description": "Two open hands facing forward.",
+        "tags": ["hands", "open", "gesture"],
+        "_id": "81emjim68859923392481"
+    },
+    {
+        "emoji": "🤞",
+        "name": "Crossed Fingers",
+        "description": "A hand with crossed index and middle fingers.",
+        "tags": ["hand", "fingers", "luck"],
+        "_id": "82emjim68859923392482"
+    },
+    {
+        "emoji": "🤙",
+        "name": "Call Me Hand",
+        "description": "A hand with the thumb and pinky finger extended, forming a phone-like gesture.",
+        "tags": ["hand", "call me", "phone"],
+        "_id": "83emjim68859923392483"
+    },
+    {
+        "emoji": "🖖",
+        "name": "Vulcan Salute",
+        "description": "A hand with the index and middle fingers extended and separated, forming a V-shaped salute.",
+        "tags": ["hand", "salute", "Vulcan"],
+        "_id": "84emjim68859923392484"
+    },
+    {
+        "emoji": "👌",
+        "name": "OK Hand",
+        "description": "A hand with the thumb and index finger touching, forming an OK gesture.",
+        "tags": ["hand", "OK", "approval"],
+        "_id": "85emjim68859923392485"
+    },
+    {
+        "emoji": "🤏",
+        "name": "Pinching Hand",
+        "description": "A hand with thumb and index finger close together, indicating a small amount or pinching gesture.",
+        "tags": ["hand", "pinch", "small"],
+        "_id": "86emjim68859923392486"
+    },
+    {
+        "emoji": "✌️",
+        "name": "Victory Hand",
+        "description": "A hand with the index and middle fingers in a V shape, representing victory or peace.",
+        "tags": ["hand", "victory", "peace"],
+        "_id": "87emjim68859923392487"
+    },
+    {
+        "emoji": "🤟",
+        "name": "Love-You Gesture",
+        "description": "A hand with the index finger and pinky finger extended, forming a love-you gesture.",
+        "tags": ["hand", "love you", "rock on"],
+        "_id": "88emjim68859923392488"
+    },
+    {
+        "emoji": "👍",
+        "name": "Thumbs Up",
+        "description": "A hand with the thumb extended upward, indicating approval or agreement.",
+        "tags": ["hand", "thumbs up", "approval"],
+        "_id": "89emjim68859923392489"
+    },
+    {
+        "emoji": "👎",
+        "name": "Thumbs Down",
+        "description": "A hand with the thumb extended downward, indicating disapproval or disagreement.",
+        "tags": ["hand", "thumbs down", "disapproval"],
+        "_id": "90emjim68859923392490"
+    },
+    {
+        "emoji": "🙌",
+        "name": "Raising Hands",
+        "description": "Two hands raised in celebration or excitement.",
+        "tags": ["hands", "celebration", "excitement"],
+        "_id": "91emjim68859923392491"
+    },
+    {
+        "emoji": "👐",
+        "name": "Open Hands",
+        "description": "Two open hands facing forward.",
+        "tags": ["hands", "open", "gesture"],
+        "_id": "92emjim68859923392492"
+    },
+    {
+        "emoji": "🤲",
+        "name": "Palms Up Together",
+        "description": "Two hands placed together with palms facing up.",
+        "tags": ["hands", "palms", "together"],
+        "_id": "93emjim68859923392493"
+    },
+    {
+        "emoji": "🤝",
+        "name": "Handshake",
+        "description": "Two hands clasped together in a handshake gesture.",
+        "tags": ["hand", "shake", "agreement"],
+        "_id": "94emjim68859923392494"
+    },
+    {
+        "emoji": "🙏",
+        "name": "Folded Hands",
+        "description": "Two hands placed together in a praying gesture.",
+        "tags": ["hands", "prayer", "thankfulness"],
+        "_id": "95emjim68859923392495"
+    },
+    {
+        "emoji": "👏",
+        "name": "Clapping Hands",
+        "description": "Two hands clapping together.",
+        "tags": ["hands", "clap", "applause"],
+        "_id": "96emjim68859923392496"
+    },
+    {
+        "emoji": "🤞",
+        "name": "Crossed Fingers",
+        "description": "A hand with crossed index and middle fingers.",
+        "tags": ["hand", "fingers", "luck"],
+        "_id": "97emjim68859923392497"
+    },
+    {
+        "emoji": "🤘",
+        "name": "Sign of the Horns",
+        "description": "A hand with the index and pinky fingers extended, forming a rock-on gesture.",
+        "tags": ["hand", "rock on", "gesture"],
+        "_id": "98emjim68859923392498"
+    },
+    {
+        "emoji": "🖐️",
+        "name": "Hand with Fingers Splayed",
+        "description": "A hand with fingers splayed apart.",
+        "tags": ["hand", "fingers", "splayed"],
+        "_id": "99emjim68859923392499"
+    },
+    {
+        "emoji": "✋",
+        "name": "Raised Hand",
+        "description": "A hand raised with fingers spread apart.",
+        "tags": ["hand", "raise", "stop"],
+        "_id": "100emjim688599233924100"
+    },
+    {
+        "emoji": "👊",
+        "name": "Fisted Hand",
+        "description": "A hand with a clenched fist.",
+        "tags": ["hand", "fist", "punch"],
+        "_id": "101emjim688599233924101"
+    },
+    {
+        "emoji": "🤙",
+        "name": "Call Me Hand",
+        "description": "A hand with the thumb and pinky finger extended, forming a phone-like gesture.",
+        "tags": ["hand", "call me", "phone"],
+        "_id": "102emjim688599233924102"
+    },
+    {
+        "emoji": "f🇺🇸",
+        "name": "United States Flag",
+        "description": "The flag of the United States of America.",
+        "tags": ["flag", "USA", "United States"],
+        "_id": "103emjim688599233924103"
+    },
+    {
+        "emoji": "🇬🇧",
+        "name": "United Kingdom Flag",
+        "description": "The flag of the United Kingdom.",
+        "tags": ["flag", "UK", "United Kingdom"],
+        "_id": "104emjim688599233924104"
+    },
+    {
+        "emoji": "🇨🇦",
+        "name": "Canada Flag",
+        "description": "The flag of Canada.",
+        "tags": ["flag", "Canada"],
+        "_id": "105emjim688599233924105"
+    },
+    {
+        "emoji": "🇦🇺",
+        "name": "Australia Flag",
+        "description": "The flag of Australia.",
+        "tags": ["flag", "Australia"],
+        "_id": "106emjim688599233924106"
+    },
+    {
+        "emoji": "🇩🇪",
+        "name": "Germany Flag",
+        "description": "The flag of Germany.",
+        "tags": ["flag", "Germany"],
+        "_id": "107emjim688599233924107"
+    },
+    {
+        "emoji": "🇫🇷",
+        "name": "France Flag",
+        "description": "The flag of France.",
+        "tags": ["flag", "France"],
+        "_id": "108emjim688599233924108"
+    },
+    {
+        "emoji": "🇮🇹",
+        "name": "Italy Flag",
+        "description": "The flag of Italy.",
+        "tags": ["flag", "Italy"],
+        "_id": "109emjim688599233924109"
+    },
+    {
+        "emoji": "🇪🇸",
+        "name": "Spain Flag",
+        "description": "The flag of Spain.",
+        "tags": ["flag", "Spain"],
+        "_id": "110emjim688599233924110"
+    },
+    {
+        "emoji": "🇯🇵",
+        "name": "Japan Flag",
+        "description": "The flag of Japan.",
+        "tags": ["flag", "Japan"],
+        "_id": "111emjim688599233924111"
+    },
+    {
+        "emoji": "🇧🇷",
+        "name": "Brazil Flag",
+        "description": "The flag of Brazil.",
+        "tags": ["flag", "Brazil"],
+        "_id": "112emjim688599233924112"
+    },
+    {
+        "emoji": "🇮🇹",
+        "name": "Italy Flag",
+        "description": "The flag of Italy.",
+        "tags": ["flag", "Italy"],
+        "_id": "113emjim688599233924113"
+    },
+    {
+        "emoji": "🇪🇸",
+        "name": "Spain Flag",
+        "description": "The flag of Spain.",
+        "tags": ["flag", "Spain"],
+        "_id": "114emjim688599233924114"
+    },
+    {
+        "emoji": "🇯🇵",
+        "name": "Japan Flag",
+        "description": "The flag of Japan.",
+        "tags": ["flag", "Japan"],
+        "_id": "115emjim688599233924115"
+    },
+    {
+        "emoji": "🇳🇬",
+        "name": "Nigeria Flag",
+        "description": "The flag of Nigeria.",
+        "tags": ["flag", "Nigeria"],
+        "_id": "116emjim688599233924116"
+    },
+    {
+        "emoji": "😔",
+        "name": "Pensive Face",
+        "description": "A face with a slightly saddened expression and downcast eyes.",
+        "tags": ["face", "sad", "pensive"],
+        "_id": "117emjim688599233924117"
+    },
+    {
+        "emoji": "😢",
+        "name": "Crying Face",
+        "description": "A face with a single tear rolling down its cheek.",
+        "tags": ["face", "sad", "cry"],
+        "_id": "118emjim688599233924118"
+    },
+    {
+        "emoji": "😭",
+        "name": "Loudly Crying Face",
+        "description": "A face with streaming tears and a closed mouth wailing.",
+        "tags": ["face", "sad", "cry", "tears"],
+        "_id": "119emjim688599233924119"
+    },
+    {
+        "emoji": "😞",
+        "name": "Disappointed Face",
+        "description": "A face with a saddened and disappointed expression.",
+        "tags": ["face", "sad", "disappointed"],
+        "_id": "120emjim688599233924120"
+    },
+    {
+        "emoji": "😟",
+        "name": "Worried Face",
+        "description": "A face with a concerned and anxious expression.",
+        "tags": ["face", "worried", "concerned"],
+        "_id": "121emjim688599233924121"
+    },
+    {
+        "emoji": "😕",
+        "name": "Confused Face",
+        "description": "A face with a perplexed and confused expression.",
+        "tags": ["face", "confused", "perplexed"],
+        "_id": "122emjim688599233924122"
+    },
+    {
+        "emoji": "🙁",
+        "name": "Slightly Frowning Face",
+        "description": "A face with a slightly frowning mouth and neutral eyes.",
+        "tags": ["face", "sad", "frown"],
+        "_id": "123emjim688599233924123"
+    },
+    {
+        "emoji": "☹️",
+        "name": "Frowning Face",
+        "description": "A face with a frowning mouth and downturned eyes.",
+        "tags": ["face", "sad", "frown"],
+        "_id": "124emjim688599233924124"
+    },
+    {
+        "emoji": "😣",
+        "name": "Persevering Face",
+        "description": "A face with a grimacing expression, indicating struggle or frustration.",
+        "tags": ["face", "sad", "persevering"],
+        "_id": "125emjim688599233924125"
+    },
+    {
+        "emoji": "😔",
+        "name": "Pensive Face",
+        "description": "A face with a slightly saddened expression and downcast eyes.",
+        "tags": ["face", "sad", "pensive"],
+        "_id": "126emjim688599233924126"
+    },
+    {
+        "emoji": "😞",
+        "name": "Disappointed Face",
+        "description": "A face with a saddened and disappointed expression.",
+        "tags": ["face", "sad", "disappointed"],
+        "_id": "127emjim688599233924127"
+    },
+    {
+        "emoji": "😟",
+        "name": "Worried Face",
+        "description": "A face with a concerned and anxious expression.",
+        "tags": ["face", "worried", "concerned"],
+        "_id": "128emjim688599233924128"
+    },
+    {
+        "emoji": "😕",
+        "name": "Confused Face",
+        "description": "A face with a perplexed and confused expression.",
+        "tags": ["face", "confused", "perplexed"],
+        "_id": "129emjim688599233924129"
+    },
+    {
+        "emoji": "🙁",
+        "name": "Slightly Frowning Face",
+        "description": "A face with a slightly frowning mouth and neutral eyes.",
+        "tags": ["face", "sad", "frown"],
+        "_id": "130emjim688599233924130"
+    },
+    {
+        "emoji": "☹️",
+        "name": "Frowning Face",
+        "description": "A face with a frowning mouth and downturned eyes.",
+        "tags": ["face", "sad", "frown"],
+        "_id": "131emjim688599233924131"
+    },
+    {
+        "emoji": "😣",
+        "name": "Persevering Face",
+        "description": "A face with a grimacing expression, indicating struggle or frustration.",
+        "tags": ["face", "sad", "persevering"],
+        "_id": "132emjim688599233924132"
+    },
+    {
+        "emoji": "😖",
+        "name": "Confounded Face",
+        "description": "A face with a mix of frustration, exhaustion, and disappointment.",
+        "tags": ["face", "sad", "confounded"],
+        "_id": "133emjim688599233924133"
+    },
+    {
+        "emoji": "😩",
+        "name": "Weary Face",
+        "description": "A face with tired eyes and a slightly frowning mouth.",
+        "tags": ["face", "sad", "weary"],
+        "_id": "134emjim688599233924134"
+    },
+    {
+        "emoji": "😫",
+        "name": "Tired Face",
+        "description": "A face with closed eyes and an open mouth, indicating exhaustion.",
+        "tags": ["face", "sad", "tired"],
+        "_id": "135emjim688599233924135"
+    },
+    {
+        "emoji": "😢",
+        "name": "Crying Face",
+        "description": "A face with a single tear rolling down its cheek.",
+        "tags": ["face", "sad", "cry"],
+        "_id": "136emjim688599233924136"
+    }
+]

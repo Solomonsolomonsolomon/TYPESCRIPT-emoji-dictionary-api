@@ -3,23 +3,23 @@ import cluster, { Cluster, Worker } from "cluster";
 import cors, { CorsOptions, CorsRequest } from "cors";
 import http from "http";
 import { cpus } from "os";
-import { startServer } from "./middleware/cluster.middleware.ts";
-import testRoute from "./routes/root.route.ts";
-import randomRoute from "./routes/random.routes.ts";
-import emojiRoute from "./routes/emojis.routes.ts";
-import searchRoute from "./routes/search.routes.ts";
-import keysRoute from "./routes/keys.routes.ts";
-import { WrongRoute } from "./controller/error.controller.ts";
-import { addApiKey } from "./controller/key.controller.ts";
+import { startServer } from "./middleware/cluster.middleware";
+import testRoute from "./routes/root.route";
+import randomRoute from "./routes/random.routes";
+import emojiRoute from "./routes/emojis.routes";
+import searchRoute from "./routes/search.routes";
+import keysRoute from "./routes/keys.routes";
+import { WrongRoute } from "./controller/error.controller";
+import { addApiKey } from "./controller/key.controller";
 import {
   apiKeyRequestLimit,
   apiRateLimiter,
-} from "./middleware/ratelimit.middleware.ts";
+} from "./middleware/ratelimit.middleware";
 const port: string | number = process.env.PORT || 3000;
 const app: Application = express();
 const server = http.createServer(app);
 app.use(express.json());
-import { getHostName, verifyKey } from "./controller/key.controller.ts";
+import { getHostName, verifyKey } from "./controller/key.controller";
 app.use(cors());
 app.set("trust proxy", 1);
 app.use(express.urlencoded({ extended: false }));
